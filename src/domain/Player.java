@@ -5,8 +5,8 @@ import java.util.List;
 
 public class Player {
 
-    private Integer seatNumber;
-    private String playerName;
+    private final Integer seatNumber;
+    private final String playerName;
     private String nameOfPosition;
     private Double chipCount;
     private String chipsInBigBlind;
@@ -16,8 +16,6 @@ public class Player {
         this.seatNumber = seatNumber;
         this.playerName = player;
     }
-
-
 
     public void setAction(String original) {
         this.addAction(original.substring(original.indexOf(":") + 2));
