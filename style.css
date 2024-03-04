@@ -1,0 +1,12 @@
+img {
+    width:100;
+    height:150;
+    padding:10px;
+}
+.holder-div {
+    width: 1300px;
+    height: 200px;
+    padding: 50px;
+    border: 5px solid blue;
+    margin: 20px;
+}

@@ -1,0 +1,3613 @@
+﻿PokerStars domain.Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1500 in chips) 
+Seat 2: Vietcongen (1500 in chips) 
+Seat 3: ZombiChicken (1500 in chips) 
+Seat 4: enzoen (1500 in chips) 
+Seat 5: hubble (1500 in chips) 
+Seat 6: Fayemouse (1500 in chips) 
+Seat 7: FelipeBarca1 (1500 in chips) 
+Seat 8: pericles420z (1500 in chips) 
+Seat 9: JlecHou90 (1500 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+Fayemouse: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+Vietcongen: posts small blind 10
+ZombiChicken: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3c 4h]
+enzoen: raises 20 to 40
+hubble: folds 
+Fayemouse: calls 40
+FelipeBarca1: raises 1457 to 1497 and is all-in
+pericles420z: folds 
+pericles420z is sitting out
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: folds 
+Fayemouse: folds 
+Uncalled bet (1457) returned to FelipeBarca1
+FelipeBarca1 collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | Rake 0 
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 4: enzoen folded before Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 6: Fayemouse folded before Flop
+Seat 7: FelipeBarca1 collected (177)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248783832653: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:16 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (1497 in chips) 
+Seat 2: Vietcongen (1487 in chips) 
+Seat 3: ZombiChicken (1477 in chips) 
+Seat 4: enzoen (1457 in chips) 
+Seat 5: hubble (1497 in chips) 
+Seat 6: Fayemouse (1457 in chips) 
+Seat 7: FelipeBarca1 (1634 in chips) 
+Seat 8: pericles420z (1497 in chips) is sitting out
+Seat 9: JlecHou90 (1497 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+Fayemouse: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+ZombiChicken: posts small blind 10
+enzoen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5c Tc]
+hubble: raises 40 to 60
+Fayemouse: calls 60
+FelipeBarca1: raises 1571 to 1631 and is all-in
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+Fayemouse: folds 
+Uncalled bet (1571) returned to FelipeBarca1
+FelipeBarca1 collected 237 from pot
+*** SUMMARY ***
+Total pot 237 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) folded before Flop (didn't bet)
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 4: enzoen (big blind) folded before Flop
+Seat 5: hubble folded before Flop
+Seat 6: Fayemouse folded before Flop
+Seat 7: FelipeBarca1 collected (237)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248783844150: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:50 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (1494 in chips) 
+Seat 2: Vietcongen (1484 in chips) 
+Seat 3: ZombiChicken (1464 in chips) 
+Seat 4: enzoen (1434 in chips) 
+Seat 5: hubble (1434 in chips) 
+Seat 6: Fayemouse (1394 in chips) 
+Seat 7: FelipeBarca1 (1808 in chips) 
+Seat 8: pericles420z (1494 in chips) is sitting out
+Seat 9: JlecHou90 (1494 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+Fayemouse: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+enzoen: posts small blind 10
+hubble: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8c 6d]
+Fayemouse: raises 20 to 40
+FelipeBarca1: raises 1765 to 1805 and is all-in
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: calls 1421 and is all-in
+hubble: folds 
+Fayemouse: calls 1351 and is all-in
+Uncalled bet (374) returned to FelipeBarca1
+*** FLOP *** [Kh 9h Qc]
+*** TURN *** [Kh 9h Qc] [Js]
+*** RIVER *** [Kh 9h Qc Js] [2c]
+*** SHOW DOWN ***
+enzoen: shows [Qh Td] (a straight, Nine to King)
+FelipeBarca1: shows [9d Kd] (two pair, Kings and Nines)
+enzoen collected 80 from side pot
+Fayemouse: shows [6c Ac] (high card Ace)
+enzoen collected 4220 from main pot
+Fayemouse finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 4300 Main pot 4220. Side pot 80. | Rake 0 
+Board [Kh 9h Qc Js 2c]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 4: enzoen (small blind) showed [Qh Td] and won (4300) with a straight, Nine to King
+Seat 5: hubble (big blind) folded before Flop
+Seat 6: Fayemouse showed [6c Ac] and lost with high card Ace
+Seat 7: FelipeBarca1 showed [9d Kd] and lost with two pair, Kings and Nines
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248783856189: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:04:24 ET
+Table '3713502695 1' 9-max Seat #4 is the button
+Seat 1: ThiagoKbelo (1491 in chips) 
+Seat 2: Vietcongen (1481 in chips) 
+Seat 3: ZombiChicken (1461 in chips) 
+Seat 4: enzoen (4300 in chips) 
+Seat 5: hubble (1411 in chips) 
+Seat 7: FelipeBarca1 (374 in chips) 
+Seat 8: pericles420z (1491 in chips) is sitting out
+Seat 9: JlecHou90 (1491 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+hubble: posts small blind 10
+FelipeBarca1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd 4c]
+pericles420z: folds 
+JlecHou90: calls 20
+ThiagoKbelo: folds 
+Vietcongen: calls 20
+ZombiChicken: folds 
+enzoen: raises 70 to 90
+hubble: folds 
+FelipeBarca1 is disconnected 
+pericles420z has returned
+FelipeBarca1 has timed out while being disconnected
+FelipeBarca1: folds 
+FelipeBarca1 is sitting out
+JlecHou90: calls 70
+Vietcongen: calls 70
+*** FLOP *** [7d Qs Qh]
+JlecHou90: checks 
+Vietcongen: checks 
+enzoen: bets 80
+JlecHou90: folds 
+Vietcongen: folds 
+Uncalled bet (80) returned to enzoen
+enzoen collected 324 from pot
+enzoen: doesn't show hand 
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [7d Qs Qh]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded on the Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen (button) collected (324)
+Seat 5: hubble (small blind) folded before Flop
+Seat 7: FelipeBarca1 (big blind) folded before Flop
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded on the Flop
+
+
+
+PokerStars domain.Hand #248783887276: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:05:52 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (1488 in chips) 
+Seat 2: Vietcongen (1388 in chips) 
+Seat 3: ZombiChicken (1458 in chips) 
+Seat 4: enzoen (4531 in chips) 
+Seat 5: hubble (1398 in chips) 
+Seat 7: FelipeBarca1 (351 in chips) is sitting out
+Seat 8: pericles420z (1488 in chips) 
+Seat 9: JlecHou90 (1398 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+FelipeBarca1: posts small blind 10
+pericles420z: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7s 2h]
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 20
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: raises 80 to 100
+Vietcongen: folds 
+Uncalled bet (80) returned to pericles420z
+pericles420z collected 74 from pot
+pericles420z: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded before Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (small blind) folded before Flop
+Seat 8: pericles420z (big blind) collected (74)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248783899624: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:06:26 ET
+Table '3713502695 1' 9-max Seat #7 is the button
+Seat 1: ThiagoKbelo (1485 in chips) 
+Seat 2: Vietcongen (1365 in chips) 
+Seat 3: ZombiChicken (1455 in chips) 
+Seat 4: enzoen (4528 in chips) 
+Seat 5: hubble (1395 in chips) 
+Seat 7: FelipeBarca1 (338 in chips) is sitting out
+Seat 8: pericles420z (1539 in chips) 
+Seat 9: JlecHou90 (1395 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+pericles420z: posts small blind 10
+JlecHou90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9s 6s]
+ThiagoKbelo: folds 
+Vietcongen: calls 20
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: calls 10
+JlecHou90: checks 
+*** FLOP *** [6d 3h 3c]
+pericles420z: checks 
+JlecHou90: checks 
+Vietcongen: bets 20
+pericles420z: calls 20
+JlecHou90: calls 20
+*** TURN *** [6d 3h 3c] [Js]
+pericles420z: checks 
+JlecHou90: checks 
+Vietcongen: bets 72
+pericles420z: calls 72
+JlecHou90: calls 72
+*** RIVER *** [6d 3h 3c Js] [8h]
+pericles420z: checks 
+JlecHou90: checks 
+Vietcongen: bets 360
+pericles420z: folds 
+JlecHou90: calls 360
+*** SHOW DOWN ***
+Vietcongen: shows [9d Ah] (a pair of Threes)
+JlecHou90: shows [Jc Qc] (two pair, Jacks and Threes)
+JlecHou90 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [6d 3h 3c Js 8h]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen showed [9d Ah] and lost with a pair of Threes
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (button) folded before Flop (didn't bet)
+Seat 8: pericles420z (small blind) folded on the River
+Seat 9: JlecHou90 (big blind) showed [Jc Qc] and won (1080) with two pair, Jacks and Threes
+
+
+
+PokerStars domain.Hand #248783920978: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:07:25 ET
+Table '3713502695 1' 9-max Seat #8 is the button
+Seat 1: ThiagoKbelo (1482 in chips) 
+Seat 2: Vietcongen (890 in chips) 
+Seat 3: ZombiChicken (1452 in chips) 
+Seat 4: enzoen (4525 in chips) 
+Seat 5: hubble (1392 in chips) 
+Seat 7: FelipeBarca1 (335 in chips) is sitting out
+Seat 8: pericles420z (1424 in chips) 
+Seat 9: JlecHou90 (2000 in chips) 
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+JlecHou90: posts small blind 10
+ThiagoKbelo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Th 3h]
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: calls 10
+ThiagoKbelo: checks 
+*** FLOP *** [9h Ks 4h]
+JlecHou90: checks 
+ThiagoKbelo: bets 20
+JlecHou90: calls 20
+*** TURN *** [9h Ks 4h] [6d]
+JlecHou90: checks 
+ThiagoKbelo: bets 60
+JlecHou90: folds 
+Uncalled bet (60) returned to ThiagoKbelo
+ThiagoKbelo collected 104 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 104 | Rake 0 
+Board [9h Ks 4h 6d]
+Seat 1: ThiagoKbelo (big blind) collected (104)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded on the Turn
+
+
+
+PokerStars domain.Hand #248783936042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:07 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (1543 in chips) 
+Seat 2: Vietcongen (887 in chips) 
+Seat 3: ZombiChicken (1449 in chips) 
+Seat 4: enzoen (4522 in chips) 
+Seat 5: hubble (1389 in chips) 
+Seat 7: FelipeBarca1 (332 in chips) is sitting out
+Seat 8: pericles420z (1421 in chips) 
+Seat 9: JlecHou90 (1957 in chips) 
+ThiagoKbelo: posts the ante 4
+Vietcongen: posts the ante 4
+ZombiChicken: posts the ante 4
+enzoen: posts the ante 4
+hubble: posts the ante 4
+FelipeBarca1: posts the ante 4
+pericles420z: posts the ante 4
+JlecHou90: posts the ante 4
+ThiagoKbelo: posts small blind 15
+Vietcongen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5h 2c]
+ZombiChicken: folds 
+enzoen: raises 45 to 75
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+Uncalled bet (45) returned to enzoen
+enzoen collected 107 from pot
+enzoen: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) folded before Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen collected (107)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248783943387: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:27 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1524 in chips) 
+Seat 2: Vietcongen (853 in chips) 
+Seat 3: ZombiChicken (1445 in chips) 
+Seat 4: enzoen (4595 in chips) 
+Seat 5: hubble (1385 in chips) 
+Seat 7: FelipeBarca1 (328 in chips) is sitting out
+Seat 8: pericles420z (1417 in chips) 
+Seat 9: JlecHou90 (1953 in chips) 
+ThiagoKbelo: posts the ante 4
+Vietcongen: posts the ante 4
+ZombiChicken: posts the ante 4
+enzoen: posts the ante 4
+hubble: posts the ante 4
+FelipeBarca1: posts the ante 4
+pericles420z: posts the ante 4
+JlecHou90: posts the ante 4
+Vietcongen: posts small blind 15
+ZombiChicken: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Tc 3c]
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: calls 30
+ThiagoKbelo: folds 
+Vietcongen: calls 15
+ZombiChicken: checks 
+*** FLOP *** [5h 5d 9c]
+Vietcongen: checks 
+ZombiChicken: checks 
+JlecHou90: checks 
+*** TURN *** [5h 5d 9c] [Td]
+Vietcongen: bets 30
+ZombiChicken: raises 60 to 90
+JlecHou90: folds 
+Vietcongen: folds 
+Uncalled bet (60) returned to ZombiChicken
+ZombiChicken collected 182 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 182 | Rake 0 
+Board [5h 5d 9c Td]
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) folded on the Turn
+Seat 3: ZombiChicken (big blind) collected (182)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded on the Turn
+
+
+
+PokerStars domain.Hand #248783965260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:09:28 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (1520 in chips) 
+Seat 2: Vietcongen (789 in chips) 
+Seat 3: ZombiChicken (1563 in chips) 
+Seat 4: enzoen (4591 in chips) 
+Seat 5: hubble (1381 in chips) 
+Seat 7: FelipeBarca1 (324 in chips) is sitting out
+Seat 8: pericles420z (1413 in chips) 
+Seat 9: JlecHou90 (1919 in chips) 
+ThiagoKbelo: posts the ante 4
+Vietcongen: posts the ante 4
+ZombiChicken: posts the ante 4
+enzoen: posts the ante 4
+hubble: posts the ante 4
+FelipeBarca1: posts the ante 4
+pericles420z: posts the ante 4
+JlecHou90: posts the ante 4
+ZombiChicken: posts small blind 15
+enzoen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Jh 4d]
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: calls 30
+ThiagoKbelo: folds 
+Vietcongen: calls 30
+ZombiChicken: folds 
+enzoen: checks 
+*** FLOP *** [5s Qh 2s]
+enzoen: checks 
+JlecHou90: checks 
+Vietcongen: bets 30
+enzoen: calls 30
+JlecHou90: folds 
+*** TURN *** [5s Qh 2s] [Td]
+enzoen: bets 90
+Vietcongen: raises 90 to 180
+enzoen: calls 90
+*** RIVER *** [5s Qh 2s Td] [6c]
+enzoen: checks 
+Vietcongen: bets 545 and is all-in
+enzoen: calls 545
+*** SHOW DOWN ***
+Vietcongen: shows [4c 3d] (a straight, Deuce to Six)
+enzoen: shows [4h Qs] (a pair of Queens)
+Vietcongen collected 1647 from pot
+*** SUMMARY ***
+Total pot 1647 | Rake 0 
+Board [5s Qh 2s Td 6c]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) showed [4c 3d] and won (1647) with a straight, Deuce to Six
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 4: enzoen (big blind) showed [4h Qs] and lost with a pair of Queens
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded on the Flop
+
+
+
+PokerStars domain.Hand #248783998734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:11:01 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (1516 in chips) 
+Seat 2: Vietcongen (1647 in chips) 
+Seat 3: ZombiChicken (1544 in chips) 
+Seat 4: enzoen (3802 in chips) 
+Seat 5: hubble (1377 in chips) 
+Seat 7: FelipeBarca1 (320 in chips) is sitting out
+Seat 8: pericles420z (1409 in chips) 
+Seat 9: JlecHou90 (1885 in chips) 
+ThiagoKbelo: posts the ante 4
+Vietcongen: posts the ante 4
+ZombiChicken: posts the ante 4
+enzoen: posts the ante 4
+hubble: posts the ante 4
+FelipeBarca1: posts the ante 4
+pericles420z: posts the ante 4
+JlecHou90: posts the ante 4
+enzoen: posts small blind 15
+hubble: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7d 7h]
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: raises 30 to 60
+ThiagoKbelo: raises 180 to 240
+Vietcongen: calls 240
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+JlecHou90: folds 
+*** FLOP *** [3s Jh 6d]
+ThiagoKbelo: checks 
+Vietcongen: checks 
+*** TURN *** [3s Jh 6d] [2d]
+ThiagoKbelo: bets 210
+Vietcongen: folds 
+Uncalled bet (210) returned to ThiagoKbelo
+ThiagoKbelo collected 617 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 617 | Rake 0 
+Board [3s Jh 6d 2d]
+Seat 1: ThiagoKbelo collected (617)
+Seat 2: Vietcongen folded on the Turn
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 4: enzoen (small blind) folded before Flop
+Seat 5: hubble (big blind) folded before Flop
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop
+
+
+
+PokerStars domain.Hand #248784021036: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:12:04 ET
+Table '3713502695 1' 9-max Seat #4 is the button
+Seat 1: ThiagoKbelo (1889 in chips) 
+Seat 2: Vietcongen (1403 in chips) 
+Seat 3: ZombiChicken (1540 in chips) 
+Seat 4: enzoen (3783 in chips) 
+Seat 5: hubble (1343 in chips) 
+Seat 7: FelipeBarca1 (316 in chips) is sitting out
+Seat 8: pericles420z (1405 in chips) 
+Seat 9: JlecHou90 (1821 in chips) 
+ThiagoKbelo: posts the ante 4
+Vietcongen: posts the ante 4
+ZombiChicken: posts the ante 4
+enzoen: posts the ante 4
+hubble: posts the ante 4
+FelipeBarca1: posts the ante 4
+pericles420z: posts the ante 4
+JlecHou90: posts the ante 4
+hubble: posts small blind 15
+FelipeBarca1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3c 8d]
+pericles420z: folds 
+JlecHou90: calls 30
+ThiagoKbelo: raises 60 to 90
+Vietcongen: calls 90
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+JlecHou90: calls 60
+*** FLOP *** [7d 5d 7s]
+JlecHou90: checks 
+ThiagoKbelo: bets 120
+Vietcongen: calls 120
+JlecHou90: folds 
+*** TURN *** [7d 5d 7s] [Js]
+ThiagoKbelo: bets 270
+Vietcongen: calls 270
+*** RIVER *** [7d 5d 7s Js] [2c]
+ThiagoKbelo: bets 450
+Vietcongen: calls 450
+*** SHOW DOWN ***
+ThiagoKbelo: shows [Qc Kh] (a pair of Sevens)
+Vietcongen: shows [Jh Ks] (two pair, Jacks and Sevens)
+Vietcongen collected 2027 from pot
+*** SUMMARY ***
+Total pot 2027 | Rake 0 
+Board [7d 5d 7s Js 2c]
+Seat 1: ThiagoKbelo showed [Qc Kh] and lost with a pair of Sevens
+Seat 2: Vietcongen showed [Jh Ks] and won (2027) with two pair, Jacks and Sevens
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 7: FelipeBarca1 (big blind) folded before Flop
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded on the Flop
+
+
+
+PokerStars domain.Hand #248784060501: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:13:53 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (955 in chips) 
+Seat 2: Vietcongen (2496 in chips) 
+Seat 3: ZombiChicken (1536 in chips) 
+Seat 4: enzoen (3779 in chips) 
+Seat 5: hubble (1324 in chips) 
+Seat 7: FelipeBarca1 (282 in chips) is sitting out
+Seat 8: pericles420z (1401 in chips) 
+Seat 9: JlecHou90 (1727 in chips) 
+ThiagoKbelo: posts the ante 6
+Vietcongen: posts the ante 6
+ZombiChicken: posts the ante 6
+enzoen: posts the ante 6
+hubble: posts the ante 6
+FelipeBarca1: posts the ante 6
+pericles420z: posts the ante 6
+JlecHou90: posts the ante 6
+FelipeBarca1: posts small blind 25
+pericles420z: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ts Jc]
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 50
+ZombiChicken: raises 75 to 125
+enzoen: calls 125
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: calls 75
+Vietcongen: calls 75
+*** FLOP *** [9h 4h 5c]
+pericles420z: checks 
+Vietcongen: bets 50
+ZombiChicken: folds 
+enzoen: raises 150 to 200
+pericles420z: folds 
+Vietcongen: calls 150
+*** TURN *** [9h 4h 5c] [Th]
+Vietcongen: bets 50
+enzoen: calls 50
+*** RIVER *** [9h 4h 5c Th] [3c]
+Vietcongen: bets 537
+enzoen: calls 537
+*** SHOW DOWN ***
+Vietcongen: shows [7s 9d] (a pair of Nines)
+enzoen: mucks hand 
+Vietcongen collected 2147 from pot
+*** SUMMARY ***
+Total pot 2147 | Rake 0 
+Board [9h 4h 5c Th 3c]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen showed [7s 9d] and won (2147) with a pair of Nines
+Seat 3: ZombiChicken folded on the Flop
+Seat 4: enzoen mucked [8c 8d]
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (small blind) folded before Flop
+Seat 8: pericles420z (big blind) folded on the Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784089734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:13 ET
+Table '3713502695 1' 9-max Seat #7 is the button
+Seat 1: ThiagoKbelo (949 in chips) 
+Seat 2: Vietcongen (3725 in chips) 
+Seat 3: ZombiChicken (1405 in chips) 
+Seat 4: enzoen (2861 in chips) 
+Seat 5: hubble (1318 in chips) 
+Seat 7: FelipeBarca1 (251 in chips) is sitting out
+Seat 8: pericles420z (1270 in chips) 
+Seat 9: JlecHou90 (1721 in chips) 
+ThiagoKbelo: posts the ante 6
+Vietcongen: posts the ante 6
+ZombiChicken: posts the ante 6
+enzoen: posts the ante 6
+hubble: posts the ante 6
+FelipeBarca1: posts the ante 6
+pericles420z: posts the ante 6
+JlecHou90: posts the ante 6
+pericles420z: posts small blind 25
+JlecHou90: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2s Kc]
+ThiagoKbelo: folds 
+Vietcongen: raises 50 to 100
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+Uncalled bet (50) returned to Vietcongen
+Vietcongen collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen collected (173)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (button) folded before Flop (didn't bet)
+Seat 8: pericles420z (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784095639: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:29 ET
+Table '3713502695 1' 9-max Seat #8 is the button
+Seat 1: ThiagoKbelo (943 in chips) 
+Seat 2: Vietcongen (3842 in chips) 
+Seat 3: ZombiChicken (1399 in chips) 
+Seat 4: enzoen (2855 in chips) 
+Seat 5: hubble (1312 in chips) 
+Seat 7: FelipeBarca1 (245 in chips) is sitting out
+Seat 8: pericles420z (1239 in chips) 
+Seat 9: JlecHou90 (1665 in chips) 
+ThiagoKbelo: posts the ante 6
+Vietcongen: posts the ante 6
+ZombiChicken: posts the ante 6
+enzoen: posts the ante 6
+hubble: posts the ante 6
+FelipeBarca1: posts the ante 6
+pericles420z: posts the ante 6
+JlecHou90: posts the ante 6
+JlecHou90: posts small blind 25
+ThiagoKbelo: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4s Th]
+Vietcongen: calls 50
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: raises 125 to 175
+JlecHou90: folds 
+ThiagoKbelo: raises 762 to 937 and is all-in
+Vietcongen: folds 
+pericles420z: folds 
+Uncalled bet (762) returned to ThiagoKbelo
+ThiagoKbelo collected 473 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) collected (473)
+Seat 2: Vietcongen folded before Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z (button) folded before Flop
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784109492: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:07 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (1235 in chips) 
+Seat 2: Vietcongen (3786 in chips) 
+Seat 3: ZombiChicken (1393 in chips) 
+Seat 4: enzoen (2849 in chips) 
+Seat 5: hubble (1306 in chips) 
+Seat 7: FelipeBarca1 (239 in chips) is sitting out
+Seat 8: pericles420z (1058 in chips) 
+Seat 9: JlecHou90 (1634 in chips) 
+ThiagoKbelo: posts the ante 6
+Vietcongen: posts the ante 6
+ZombiChicken: posts the ante 6
+enzoen: posts the ante 6
+hubble: posts the ante 6
+FelipeBarca1: posts the ante 6
+pericles420z: posts the ante 6
+JlecHou90: posts the ante 6
+ThiagoKbelo: posts small blind 25
+Vietcongen: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4d 8c]
+ZombiChicken: folds 
+enzoen: raises 50 to 100
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: raises 50 to 150
+enzoen: calls 50
+*** FLOP *** [2c 3s 2s]
+Vietcongen: bets 50
+enzoen: calls 50
+*** TURN *** [2c 3s 2s] [5c]
+Vietcongen: bets 237
+enzoen: folds 
+Uncalled bet (237) returned to Vietcongen
+Vietcongen collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Board [2c 3s 2s 5c]
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) collected (473)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded on the Turn
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784121017: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:39 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1204 in chips) 
+Seat 2: Vietcongen (4053 in chips) 
+Seat 3: ZombiChicken (1387 in chips) 
+Seat 4: enzoen (2643 in chips) 
+Seat 5: hubble (1300 in chips) 
+Seat 7: FelipeBarca1 (233 in chips) is sitting out
+Seat 8: pericles420z (1052 in chips) 
+Seat 9: JlecHou90 (1628 in chips) 
+ThiagoKbelo: posts the ante 6
+Vietcongen: posts the ante 6
+ZombiChicken: posts the ante 6
+enzoen: posts the ante 6
+hubble: posts the ante 6
+FelipeBarca1: posts the ante 6
+pericles420z: posts the ante 6
+JlecHou90: posts the ante 6
+Vietcongen: posts small blind 25
+ZombiChicken: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9s Jc]
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: raises 50 to 100
+Vietcongen: calls 75
+ZombiChicken: calls 50
+*** FLOP *** [Kd Qh Ks]
+Vietcongen: bets 50
+ZombiChicken: folds 
+ThiagoKbelo: calls 50
+*** TURN *** [Kd Qh Ks] [Ah]
+Vietcongen: bets 224
+ThiagoKbelo: folds 
+Uncalled bet (224) returned to Vietcongen
+Vietcongen collected 448 from pot
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Kd Qh Ks Ah]
+Seat 1: ThiagoKbelo (button) folded on the Turn
+Seat 2: Vietcongen (small blind) collected (448)
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784144642: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:17:44 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (1048 in chips) 
+Seat 2: Vietcongen (4345 in chips) 
+Seat 3: ZombiChicken (1281 in chips) 
+Seat 4: enzoen (2637 in chips) 
+Seat 5: hubble (1294 in chips) 
+Seat 7: FelipeBarca1 (227 in chips) is sitting out
+Seat 8: pericles420z (1046 in chips) 
+Seat 9: JlecHou90 (1622 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+ZombiChicken: posts small blind 40
+enzoen: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3s 8d]
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 80
+ZombiChicken: folds 
+enzoen: checks 
+*** FLOP *** [4d 3c Ad]
+enzoen: checks 
+Vietcongen: bets 80
+enzoen: folds 
+Uncalled bet (80) returned to Vietcongen
+Vietcongen collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [4d 3c Ad]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) collected (280)
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 4: enzoen (big blind) folded on the Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784157362: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:18:20 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (1038 in chips) 
+Seat 2: Vietcongen (4535 in chips) 
+Seat 3: ZombiChicken (1231 in chips) 
+Seat 4: enzoen (2547 in chips) 
+Seat 5: hubble (1284 in chips) 
+Seat 7: FelipeBarca1 (217 in chips) is sitting out
+Seat 8: pericles420z (1036 in chips) 
+Seat 9: JlecHou90 (1612 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+enzoen: posts small blind 40
+hubble: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Th Ac]
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 80
+ZombiChicken: raises 120 to 200
+enzoen: folds 
+hubble: calls 120
+Vietcongen: calls 120
+*** FLOP *** [2d 8s Ks]
+hubble: checks 
+Vietcongen: bets 80
+ZombiChicken: calls 80
+hubble: raises 994 to 1074 and is all-in
+Vietcongen: folds 
+ZombiChicken: folds 
+Uncalled bet (994) returned to hubble
+hubble collected 960 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2d 8s Ks]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded on the Flop
+Seat 3: ZombiChicken (button) folded on the Flop
+Seat 4: enzoen (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (960)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784176821: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:13 ET
+Table '3713502695 1' 9-max Seat #4 is the button
+Seat 1: ThiagoKbelo (1028 in chips) 
+Seat 2: Vietcongen (4245 in chips) 
+Seat 3: ZombiChicken (941 in chips) 
+Seat 4: enzoen (2497 in chips) 
+Seat 5: hubble (1954 in chips) 
+Seat 7: FelipeBarca1 (207 in chips) is sitting out
+Seat 8: pericles420z (1026 in chips) 
+Seat 9: JlecHou90 (1602 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+hubble: posts small blind 40
+FelipeBarca1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ad 3c]
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: raises 938 to 1018 and is all-in
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+Uncalled bet (938) returned to ThiagoKbelo
+ThiagoKbelo collected 280 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: ThiagoKbelo collected (280)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 7: FelipeBarca1 (big blind) folded before Flop
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784185952: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:38 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (1218 in chips) 
+Seat 2: Vietcongen (4235 in chips) 
+Seat 3: ZombiChicken (931 in chips) 
+Seat 4: enzoen (2487 in chips) 
+Seat 5: hubble (1904 in chips) 
+Seat 7: FelipeBarca1 (117 in chips) is sitting out
+Seat 8: pericles420z (1016 in chips) 
+Seat 9: JlecHou90 (1592 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+FelipeBarca1: posts small blind 40
+pericles420z: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8c 7s]
+JlecHou90: folds 
+ThiagoKbelo: raises 1128 to 1208 and is all-in
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+Uncalled bet (1128) returned to ThiagoKbelo
+ThiagoKbelo collected 280 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: ThiagoKbelo collected (280)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (small blind) folded before Flop
+Seat 8: pericles420z (big blind) folded before Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784195383: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:20:04 ET
+Table '3713502695 1' 9-max Seat #7 is the button
+Seat 1: ThiagoKbelo (1408 in chips) 
+Seat 2: Vietcongen (4225 in chips) 
+Seat 3: ZombiChicken (921 in chips) 
+Seat 4: enzoen (2477 in chips) 
+Seat 5: hubble (1894 in chips) 
+Seat 7: FelipeBarca1 (67 in chips) is sitting out
+Seat 8: pericles420z (926 in chips) 
+Seat 9: JlecHou90 (1582 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+pericles420z: posts small blind 40
+JlecHou90: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Qd 3s]
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: raises 120 to 200
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: calls 120
+*** FLOP *** [7c 7s 3h]
+JlecHou90: checks 
+enzoen: bets 260
+JlecHou90: raises 260 to 520
+enzoen: raises 1747 to 2267 and is all-in
+JlecHou90: folds 
+Uncalled bet (1747) returned to enzoen
+enzoen collected 1560 from pot
+enzoen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [7c 7s 3h]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen collected (1560)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 (button) folded before Flop (didn't bet)
+Seat 8: pericles420z (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) folded on the Flop
+
+
+
+PokerStars domain.Hand #248784220001: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:10 ET
+Table '3713502695 1' 9-max Seat #8 is the button
+Seat 1: ThiagoKbelo (1398 in chips) 
+Seat 2: Vietcongen (4215 in chips) 
+Seat 3: ZombiChicken (911 in chips) 
+Seat 4: enzoen (3307 in chips) 
+Seat 5: hubble (1884 in chips) 
+Seat 7: FelipeBarca1 (57 in chips) is sitting out
+Seat 8: pericles420z (876 in chips) 
+Seat 9: JlecHou90 (852 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+JlecHou90: posts small blind 40
+ThiagoKbelo: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ac 5s]
+Vietcongen: calls 80
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: raises 786 to 866 and is all-in
+JlecHou90: calls 802 and is all-in
+ThiagoKbelo: folds 
+Vietcongen: folds 
+Uncalled bet (24) returned to pericles420z
+*** FLOP *** [5c 2d 6h]
+*** TURN *** [5c 2d 6h] [Qc]
+*** RIVER *** [5c 2d 6h Qc] [Ts]
+*** SHOW DOWN ***
+JlecHou90: shows [As 9h] (high card Ace)
+pericles420z: shows [Ad 9d] (high card Ace)
+JlecHou90 collected 962 from pot
+pericles420z collected 962 from pot
+*** SUMMARY ***
+Total pot 1924 | Rake 0 
+Board [5c 2d 6h Qc Ts]
+Seat 1: ThiagoKbelo (big blind) folded before Flop
+Seat 2: Vietcongen folded before Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z (button) showed [Ad 9d] and won (962) with high card Ace
+Seat 9: JlecHou90 (small blind) showed [As 9h] and won (962) with high card Ace
+
+
+
+PokerStars domain.Hand #248784234127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:48 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (1308 in chips) 
+Seat 2: Vietcongen (4125 in chips) 
+Seat 3: ZombiChicken (901 in chips) 
+Seat 4: enzoen (3297 in chips) 
+Seat 5: hubble (1874 in chips) 
+Seat 7: FelipeBarca1 (47 in chips) is sitting out
+Seat 8: pericles420z (986 in chips) 
+Seat 9: JlecHou90 (962 in chips) 
+ThiagoKbelo: posts the ante 10
+Vietcongen: posts the ante 10
+ZombiChicken: posts the ante 10
+enzoen: posts the ante 10
+hubble: posts the ante 10
+FelipeBarca1: posts the ante 10
+pericles420z: posts the ante 10
+JlecHou90: posts the ante 10
+ThiagoKbelo: posts small blind 40
+Vietcongen: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Jc 3c]
+ZombiChicken: folds 
+enzoen: raises 80 to 160
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 80
+*** FLOP *** [Qs Qd 3h]
+Vietcongen: bets 80
+enzoen: calls 80
+*** TURN *** [Qs Qd 3h] [Jd]
+Vietcongen: bets 80
+enzoen: calls 80
+*** RIVER *** [Qs Qd 3h Jd] [5c]
+Vietcongen: bets 380
+enzoen: raises 620 to 1000
+Vietcongen: folds 
+Uncalled bet (620) returned to enzoen
+enzoen collected 1520 from pot
+enzoen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1520 | Rake 0 
+Board [Qs Qd 3h Jd 5c]
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) folded on the River
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen collected (1520)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784256445: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:22:48 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1258 in chips) 
+Seat 2: Vietcongen (3415 in chips) 
+Seat 3: ZombiChicken (891 in chips) 
+Seat 4: enzoen (4107 in chips) 
+Seat 5: hubble (1864 in chips) 
+Seat 7: FelipeBarca1 (37 in chips) is sitting out
+Seat 8: pericles420z (976 in chips) 
+Seat 9: JlecHou90 (952 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+FelipeBarca1: posts the ante 15
+pericles420z: posts the ante 15
+JlecHou90: posts the ante 15
+Vietcongen: posts small blind 60
+ZombiChicken: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Js Ad]
+enzoen: raises 120 to 240
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: raises 697 to 937 and is all-in
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: calls 697
+*** FLOP *** [2h 8c 7h]
+*** TURN *** [2h 8c 7h] [Qh]
+*** RIVER *** [2h 8c 7h Qh] [6c]
+*** SHOW DOWN ***
+enzoen: shows [Kh Td] (high card King)
+JlecHou90: shows [Ah 9d] (high card Ace)
+JlecHou90 collected 2174 from pot
+*** SUMMARY ***
+Total pot 2174 | Rake 0 
+Board [2h 8c 7h Qh 6c]
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 4: enzoen showed [Kh Td] and lost with high card King
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 showed [Ah 9d] and won (2174) with high card Ace
+
+
+
+PokerStars domain.Hand #248784268380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:23:20 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (1243 in chips) 
+Seat 2: Vietcongen (3340 in chips) 
+Seat 3: ZombiChicken (756 in chips) 
+Seat 4: enzoen (3155 in chips) 
+Seat 5: hubble (1849 in chips) 
+Seat 7: FelipeBarca1 (22 in chips) is sitting out
+Seat 8: pericles420z (961 in chips) 
+Seat 9: JlecHou90 (2174 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+FelipeBarca1: posts the ante 15
+pericles420z: posts the ante 15
+JlecHou90: posts the ante 15
+ZombiChicken: posts small blind 60
+enzoen: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7h 7s]
+hubble: folds 
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: raises 621 to 741 and is all-in
+enzoen: calls 621
+*** FLOP *** [9h 2c As]
+*** TURN *** [9h 2c As] [Tc]
+*** RIVER *** [9h 2c As Tc] [2h]
+*** SHOW DOWN ***
+ZombiChicken: shows [7h 7s] (two pair, Sevens and Deuces)
+enzoen: shows [Qd Jh] (a pair of Deuces)
+ZombiChicken collected 1602 from pot
+*** SUMMARY ***
+Total pot 1602 | Rake 0 
+Board [9h 2c As Tc 2h]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) folded before Flop (didn't bet)
+Seat 3: ZombiChicken (small blind) showed [7h 7s] and won (1602) with two pair, Sevens and Deuces
+Seat 4: enzoen (big blind) showed [Qd Jh] and lost with a pair of Deuces
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784288897: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:24:16 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (1228 in chips) 
+Seat 2: Vietcongen (3325 in chips) 
+Seat 3: ZombiChicken (1602 in chips) 
+Seat 4: enzoen (2399 in chips) 
+Seat 5: hubble (1834 in chips) 
+Seat 7: FelipeBarca1 (7 in chips) is sitting out
+Seat 8: pericles420z (946 in chips) 
+Seat 9: JlecHou90 (2159 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+FelipeBarca1: posts the ante 7 and is all-in
+pericles420z: posts the ante 15
+JlecHou90: posts the ante 15
+enzoen: posts small blind 60
+hubble: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [6h 3d]
+FelipeBarca1: folds 
+pericles420z: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 120
+ZombiChicken: folds 
+enzoen: calls 60
+hubble: checks 
+*** FLOP *** [Jc Tc 6c]
+enzoen: checks 
+hubble: checks 
+Vietcongen: bets 120
+enzoen: calls 120
+hubble: folds 
+*** TURN *** [Jc Tc 6c] [9s]
+enzoen: checks 
+Vietcongen: bets 356
+enzoen: calls 356
+*** RIVER *** [Jc Tc 6c 9s] [Kh]
+enzoen: checks 
+Vietcongen: bets 1424
+enzoen: folds 
+Uncalled bet (1424) returned to Vietcongen
+Vietcongen collected 1424 from pot
+FelipeBarca1 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1424 | Rake 0 
+Board [Jc Tc 6c 9s Kh]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen collected (1424)
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 4: enzoen (small blind) folded on the River
+Seat 5: hubble (big blind) folded on the Flop
+Seat 7: FelipeBarca1 folded before Flop (didn't bet)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784314472: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:25:26 ET
+Table '3713502695 1' 9-max Seat #4 is the button
+Seat 1: ThiagoKbelo (1213 in chips) 
+Seat 2: Vietcongen (4138 in chips) 
+Seat 3: ZombiChicken (1587 in chips) 
+Seat 4: enzoen (1788 in chips) 
+Seat 5: hubble (1699 in chips) 
+Seat 8: pericles420z (931 in chips) 
+Seat 9: JlecHou90 (2144 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+pericles420z: posts the ante 15
+JlecHou90: posts the ante 15
+hubble: posts small blind 60
+pericles420z: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2h 2d]
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 120
+ZombiChicken: raises 1452 to 1572 and is all-in
+enzoen: folds 
+hubble: folds 
+pericles420z: folds 
+Vietcongen: folds 
+Uncalled bet (1452) returned to ZombiChicken
+ZombiChicken collected 525 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen folded before Flop
+Seat 3: ZombiChicken collected (525)
+Seat 4: enzoen (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 8: pericles420z (big blind) folded before Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784331096: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:11 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (1198 in chips) 
+Seat 2: Vietcongen (4003 in chips) 
+Seat 3: ZombiChicken (1977 in chips) 
+Seat 4: enzoen (1773 in chips) 
+Seat 5: hubble (1624 in chips) 
+Seat 8: pericles420z (796 in chips) 
+Seat 9: JlecHou90 (2129 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+pericles420z: posts the ante 15
+JlecHou90: posts the ante 15
+pericles420z: posts small blind 60
+JlecHou90: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9d 8s]
+ThiagoKbelo: folds 
+Vietcongen: calls 120
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+pericles420z: raises 661 to 781 and is all-in
+JlecHou90: folds 
+Vietcongen: calls 661
+*** FLOP *** [Td Ah 3s]
+*** TURN *** [Td Ah 3s] [7s]
+*** RIVER *** [Td Ah 3s 7s] [Qh]
+*** SHOW DOWN ***
+pericles420z: shows [Js Ac] (a pair of Aces)
+Vietcongen: shows [Qd Th] (two pair, Queens and Tens)
+Vietcongen collected 1787 from pot
+pericles420z finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1787 | Rake 0 
+Board [Td Ah 3s 7s Qh]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen showed [Qd Th] and won (1787) with two pair, Queens and Tens
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 8: pericles420z (small blind) showed [Js Ac] and lost with a pair of Aces
+Seat 9: JlecHou90 (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784341809: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:39 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (1183 in chips) 
+Seat 2: Vietcongen (4994 in chips) 
+Seat 3: ZombiChicken (1962 in chips) 
+Seat 4: enzoen (1758 in chips) 
+Seat 5: hubble (1609 in chips) 
+Seat 9: JlecHou90 (1994 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+JlecHou90: posts the ante 15
+ThiagoKbelo: posts small blind 60
+Vietcongen: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ks 7d]
+ZombiChicken: folds 
+enzoen: folds 
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (60) returned to Vietcongen
+Vietcongen collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) collected (210)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 4: enzoen folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784345214: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:49 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1108 in chips) 
+Seat 2: Vietcongen (5129 in chips) 
+Seat 3: ZombiChicken (1947 in chips) 
+Seat 4: enzoen (1743 in chips) 
+Seat 5: hubble (1594 in chips) 
+Seat 9: JlecHou90 (1979 in chips) 
+ThiagoKbelo: posts the ante 15
+Vietcongen: posts the ante 15
+ZombiChicken: posts the ante 15
+enzoen: posts the ante 15
+hubble: posts the ante 15
+JlecHou90: posts the ante 15
+Vietcongen: posts small blind 60
+ZombiChicken: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4d 5d]
+enzoen: raises 120 to 240
+hubble: raises 240 to 480
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+ZombiChicken: folds 
+enzoen: calls 240
+*** FLOP *** [5h 4s 5c]
+enzoen: checks 
+hubble: bets 360
+enzoen: calls 360
+*** TURN *** [5h 4s 5c] [Jd]
+enzoen: checks 
+hubble: bets 739 and is all-in
+enzoen: folds 
+Uncalled bet (739) returned to hubble
+hubble collected 1950 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Board [5h 4s 5c Jd]
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 4: enzoen folded on the Turn
+Seat 5: hubble collected (1950)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784369988: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:27:56 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (1093 in chips) 
+Seat 2: Vietcongen (5054 in chips) 
+Seat 3: ZombiChicken (1812 in chips) 
+Seat 4: enzoen (888 in chips) 
+Seat 5: hubble (2689 in chips) 
+Seat 9: JlecHou90 (1964 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+enzoen: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+ZombiChicken: posts small blind 80
+enzoen: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3s 5d]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 160
+ZombiChicken: folds 
+enzoen: checks 
+*** FLOP *** [7s 3c Td]
+enzoen: bets 708 and is all-in
+Vietcongen: calls 708
+*** TURN *** [7s 3c Td] [Ah]
+*** RIVER *** [7s 3c Td Ah] [4h]
+*** SHOW DOWN ***
+enzoen: shows [4c 6c] (a pair of Fours)
+Vietcongen: shows [9d 9c] (a pair of Nines)
+Vietcongen collected 1936 from pot
+enzoen finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1936 | Rake 0 
+Board [7s 3c Td Ah 4h]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) showed [9d 9c] and won (1936) with a pair of Nines
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 4: enzoen (big blind) showed [4c 6c] and lost with a pair of Fours
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784384907: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:28:37 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (1073 in chips) 
+Seat 2: Vietcongen (6102 in chips) 
+Seat 3: ZombiChicken (1712 in chips) 
+Seat 5: hubble (2669 in chips) 
+Seat 9: JlecHou90 (1944 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+hubble: posts small blind 80
+JlecHou90: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Qc Jc]
+ThiagoKbelo: folds 
+Vietcongen: calls 160
+ZombiChicken: calls 160
+hubble: calls 80
+JlecHou90: checks 
+*** FLOP *** [7d Ac Tc]
+hubble: checks 
+JlecHou90: checks 
+Vietcongen: bets 160
+ZombiChicken: raises 160 to 320
+hubble: folds 
+JlecHou90: folds 
+Vietcongen: calls 160
+*** TURN *** [7d Ac Tc] [2s]
+Vietcongen: bets 690
+ZombiChicken: calls 690
+*** RIVER *** [7d Ac Tc 2s] [8c]
+Vietcongen: bets 2760
+ZombiChicken: calls 522 and is all-in
+Uncalled bet (2238) returned to Vietcongen
+*** SHOW DOWN ***
+Vietcongen: shows [Ah 8d] (two pair, Aces and Eights)
+ZombiChicken: shows [Qc Jc] (a flush, Ace high)
+ZombiChicken collected 3804 from pot
+*** SUMMARY ***
+Total pot 3804 | Rake 0 
+Board [7d Ac Tc 2s 8c]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen showed [Ah 8d] and lost with two pair, Aces and Eights
+Seat 3: ZombiChicken (button) showed [Qc Jc] and won (3804) with a flush, Ace high
+Seat 5: hubble (small blind) folded on the Flop
+Seat 9: JlecHou90 (big blind) folded on the Flop
+
+
+
+PokerStars domain.Hand #248784413419: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:29:54 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (1053 in chips) 
+Seat 2: Vietcongen (4390 in chips) 
+Seat 3: ZombiChicken (3804 in chips) 
+Seat 5: hubble (2489 in chips) 
+Seat 9: JlecHou90 (1764 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+JlecHou90: posts small blind 80
+ThiagoKbelo: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd 6s]
+Vietcongen: calls 160
+ZombiChicken: folds 
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: raises 873 to 1033 and is all-in
+Vietcongen: calls 873
+*** FLOP *** [5d Qs 6d]
+*** TURN *** [5d Qs 6d] [8s]
+*** RIVER *** [5d Qs 6d 8s] [2d]
+*** SHOW DOWN ***
+ThiagoKbelo: shows [8h 8c] (three of a kind, Eights)
+Vietcongen: shows [Ac 2s] (a pair of Deuces)
+ThiagoKbelo collected 2246 from pot
+*** SUMMARY ***
+Total pot 2246 | Rake 0 
+Board [5d Qs 6d 8s 2d]
+Seat 1: ThiagoKbelo (big blind) showed [8h 8c] and won (2246) with three of a kind, Eights
+Seat 2: Vietcongen showed [Ac 2s] and lost with a pair of Deuces
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784426137: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:29 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (2246 in chips) 
+Seat 2: Vietcongen (3337 in chips) 
+Seat 3: ZombiChicken (3784 in chips) 
+Seat 5: hubble (2469 in chips) 
+Seat 9: JlecHou90 (1664 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+ThiagoKbelo: posts small blind 80
+Vietcongen: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Jc 3h]
+ZombiChicken: folds 
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (80) returned to Vietcongen
+Vietcongen collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) collected (260)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784434775: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:52 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2146 in chips) 
+Seat 2: Vietcongen (3497 in chips) 
+Seat 3: ZombiChicken (3764 in chips) 
+Seat 5: hubble (2449 in chips) 
+Seat 9: JlecHou90 (1644 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+Vietcongen: posts small blind 80
+ZombiChicken: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5s 5c]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 80
+ZombiChicken: checks 
+*** FLOP *** [Jc 6d 8h]
+Vietcongen: bets 160
+ZombiChicken: calls 160
+*** TURN *** [Jc 6d 8h] [4c]
+Vietcongen: bets 160
+ZombiChicken: calls 160
+*** RIVER *** [Jc 6d 8h 4c] [5d]
+Vietcongen: bets 530
+ZombiChicken: calls 530
+*** SHOW DOWN ***
+Vietcongen: shows [8s Jh] (two pair, Jacks and Eights)
+ZombiChicken: shows [5s 5c] (three of a kind, Fives)
+ZombiChicken collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [Jc 6d 8h 4c 5d]
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) showed [8s Jh] and lost with two pair, Jacks and Eights
+Seat 3: ZombiChicken (big blind) showed [5s 5c] and won (2120) with three of a kind, Fives
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784453413: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:31:43 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (2126 in chips) 
+Seat 2: Vietcongen (2467 in chips) 
+Seat 3: ZombiChicken (4854 in chips) 
+Seat 5: hubble (2429 in chips) 
+Seat 9: JlecHou90 (1624 in chips) 
+ThiagoKbelo: posts the ante 20
+Vietcongen: posts the ante 20
+ZombiChicken: posts the ante 20
+hubble: posts the ante 20
+JlecHou90: posts the ante 20
+ZombiChicken: posts small blind 80
+hubble: posts big blind 160
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5c Ah]
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: calls 160
+ZombiChicken: calls 80
+hubble: checks 
+*** FLOP *** [8d 2d 4h]
+ZombiChicken: checks 
+hubble: checks 
+Vietcongen: checks 
+*** TURN *** [8d 2d 4h] [6s]
+ZombiChicken: checks 
+hubble: bets 305
+Vietcongen: folds 
+ZombiChicken: calls 305
+*** RIVER *** [8d 2d 4h 6s] [8s]
+ZombiChicken: checks 
+hubble: checks 
+*** SHOW DOWN ***
+ZombiChicken: shows [5c Ah] (a pair of Eights)
+hubble: shows [6c 4s] (two pair, Eights and Sixes)
+hubble collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [8d 2d 4h 6s 8s]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen (button) folded on the Turn
+Seat 3: ZombiChicken (small blind) showed [5c Ah] and lost with a pair of Eights
+Seat 5: hubble (big blind) showed [6c 4s] and won (1190) with two pair, Eights and Sixes
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784483002: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:03 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (2106 in chips) 
+Seat 2: Vietcongen (2287 in chips) 
+Seat 3: ZombiChicken (4369 in chips) 
+Seat 5: hubble (3134 in chips) 
+Seat 9: JlecHou90 (1604 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 100
+JlecHou90: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5c 8c]
+ThiagoKbelo: raises 1881 to 2081 and is all-in
+Vietcongen: folds 
+ZombiChicken: folds 
+hubble: folds 
+JlecHou90: folds 
+Uncalled bet (1881) returned to ThiagoKbelo
+ThiagoKbelo collected 625 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 1: ThiagoKbelo collected (625)
+Seat 2: Vietcongen folded before Flop (didn't bet)
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784490803: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:24 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (2506 in chips) 
+Seat 2: Vietcongen (2262 in chips) 
+Seat 3: ZombiChicken (4344 in chips) 
+Seat 5: hubble (3009 in chips) 
+Seat 9: JlecHou90 (1379 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 100
+ThiagoKbelo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kc Kh]
+Vietcongen: calls 200
+ZombiChicken: raises 400 to 600
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Vietcongen: folds 
+Uncalled bet (400) returned to ZombiChicken
+ZombiChicken collected 825 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) folded before Flop
+Seat 2: Vietcongen folded before Flop
+Seat 3: ZombiChicken collected (825)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784499834: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:49 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (2281 in chips) 
+Seat 2: Vietcongen (2037 in chips) 
+Seat 3: ZombiChicken (4944 in chips) 
+Seat 5: hubble (2984 in chips) 
+Seat 9: JlecHou90 (1254 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ThiagoKbelo: posts small blind 100
+Vietcongen: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3s Ah]
+ZombiChicken: folds 
+hubble: folds 
+JlecHou90: raises 1029 to 1229 and is all-in
+ThiagoKbelo: folds 
+Vietcongen: calls 1029
+*** FLOP *** [5c Ac 3c]
+*** TURN *** [5c Ac 3c] [4s]
+*** RIVER *** [5c Ac 3c 4s] [5d]
+*** SHOW DOWN ***
+Vietcongen: shows [Qh 9s] (a pair of Fives)
+JlecHou90: shows [Kc Js] (a pair of Fives - Ace+King kicker)
+JlecHou90 collected 2683 from pot
+*** SUMMARY ***
+Total pot 2683 | Rake 0 
+Board [5c Ac 3c 4s 5d]
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 2: Vietcongen (big blind) showed [Qh 9s] and lost with a pair of Fives
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) showed [Kc Js] and won (2683) with a pair of Fives
+
+
+
+PokerStars domain.Hand #248784518338: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:34:39 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2156 in chips) 
+Seat 2: Vietcongen (783 in chips) 
+Seat 3: ZombiChicken (4919 in chips) 
+Seat 5: hubble (2959 in chips) 
+Seat 9: JlecHou90 (2683 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+Vietcongen: posts small blind 100
+ZombiChicken: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8d As]
+hubble: folds 
+JlecHou90: folds 
+Vietcongen is disconnected 
+ThiagoKbelo: raises 1931 to 2131 and is all-in
+Vietcongen is connected 
+Vietcongen: folds 
+ZombiChicken: folds 
+Uncalled bet (1931) returned to ThiagoKbelo
+ThiagoKbelo collected 625 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 1: ThiagoKbelo (button) collected (625)
+Seat 2: Vietcongen (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784531956: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:16 ET
+Table '3713502695 1' 9-max Seat #2 is the button
+Seat 1: ThiagoKbelo (2556 in chips) 
+Seat 2: Vietcongen (658 in chips) 
+Seat 3: ZombiChicken (4694 in chips) 
+Seat 5: hubble (2934 in chips) 
+Seat 9: JlecHou90 (2658 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 100
+hubble: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2c Kd]
+JlecHou90: folds 
+ThiagoKbelo: raises 300 to 500
+Vietcongen: folds 
+ZombiChicken: folds 
+hubble: folds 
+Uncalled bet (300) returned to ThiagoKbelo
+ThiagoKbelo collected 625 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 1: ThiagoKbelo collected (625)
+Seat 2: Vietcongen (button) folded before Flop (didn't bet)
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 5: hubble (big blind) folded before Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784540406: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:39 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (2956 in chips) 
+Seat 2: Vietcongen (633 in chips) 
+Seat 3: ZombiChicken (4569 in chips) 
+Seat 5: hubble (2709 in chips) 
+Seat 9: JlecHou90 (2633 in chips) 
+ThiagoKbelo: posts the ante 25
+Vietcongen: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 100
+JlecHou90: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd Tc]
+ThiagoKbelo: folds 
+Vietcongen: calls 200
+ZombiChicken: folds 
+hubble: calls 100
+JlecHou90: checks 
+*** FLOP *** [Ah Ad Qs]
+hubble: checks 
+JlecHou90: checks 
+Vietcongen: bets 200
+hubble: calls 200
+JlecHou90: folds 
+*** TURN *** [Ah Ad Qs] [5c]
+hubble: checks 
+Vietcongen: bets 200
+hubble: raises 200 to 400
+Vietcongen: calls 8 and is all-in
+Uncalled bet (192) returned to hubble
+*** RIVER *** [Ah Ad Qs 5c] [Js]
+*** SHOW DOWN ***
+hubble: shows [4d As] (three of a kind, Aces)
+Vietcongen: shows [6s 5s] (two pair, Aces and Fives)
+hubble collected 1541 from pot
+Vietcongen finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1541 | Rake 0 
+Board [Ah Ad Qs 5c Js]
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 2: Vietcongen showed [6s 5s] and lost with two pair, Aces and Fives
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) showed [4d As] and won (1541) with three of a kind, Aces
+Seat 9: JlecHou90 (big blind) folded on the Flop
+
+
+
+PokerStars domain.Hand #248784563071: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:41 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (2931 in chips) 
+Seat 3: ZombiChicken (4544 in chips) 
+Seat 5: hubble (3617 in chips) 
+Seat 9: JlecHou90 (2408 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 100
+ThiagoKbelo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3c 9s]
+ZombiChicken: folds 
+hubble: folds 
+JlecHou90: folds 
+Uncalled bet (100) returned to ThiagoKbelo
+ThiagoKbelo collected 300 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) collected (300)
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784565691: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:48 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (3106 in chips) 
+Seat 3: ZombiChicken (4519 in chips) 
+Seat 5: hubble (3592 in chips) 
+Seat 9: JlecHou90 (2283 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ThiagoKbelo: posts small blind 100
+ZombiChicken: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5c Qc]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (100) returned to ZombiChicken
+ZombiChicken collected 300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) collected (300)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784571301: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:03 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2981 in chips) 
+Seat 3: ZombiChicken (4694 in chips) 
+Seat 5: hubble (3567 in chips) 
+Seat 9: JlecHou90 (2258 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 100
+hubble: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [As Jc]
+JlecHou90: folds 
+ThiagoKbelo: raises 200 to 400
+ZombiChicken: raises 4269 to 4669 and is all-in
+hubble: folds 
+ThiagoKbelo: folds 
+Uncalled bet (4269) returned to ZombiChicken
+ZombiChicken collected 1100 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: ThiagoKbelo (button) folded before Flop
+Seat 3: ZombiChicken (small blind) collected (1100)
+Seat 5: hubble (big blind) folded before Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784584025: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:37 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (2556 in chips) 
+Seat 3: ZombiChicken (5369 in chips) 
+Seat 5: hubble (3342 in chips) 
+Seat 9: JlecHou90 (2233 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 100
+JlecHou90: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Js 4d]
+ThiagoKbelo: folds 
+ZombiChicken: folds 
+hubble: folds 
+Uncalled bet (100) returned to JlecHou90
+JlecHou90 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) collected (300)
+
+
+
+PokerStars domain.Hand #248784588781: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:37:50 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (2531 in chips) 
+Seat 3: ZombiChicken (5344 in chips) 
+Seat 5: hubble (3217 in chips) 
+Seat 9: JlecHou90 (2408 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 150
+ThiagoKbelo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kh 7h]
+ZombiChicken: raises 5019 to 5319 and is all-in
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (5019) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) folded before Flop
+Seat 3: ZombiChicken collected (850)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784601461: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:25 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (2206 in chips) 
+Seat 3: ZombiChicken (5869 in chips) 
+Seat 5: hubble (3192 in chips) 
+Seat 9: JlecHou90 (2233 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ThiagoKbelo: posts small blind 150
+ZombiChicken: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Tc Jd]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: raises 1881 to 2181 and is all-in
+ZombiChicken: folds 
+Uncalled bet (1881) returned to ThiagoKbelo
+ThiagoKbelo collected 700 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) collected (700)
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784610380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:49 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2581 in chips) 
+Seat 3: ZombiChicken (5544 in chips) 
+Seat 5: hubble (3167 in chips) 
+Seat 9: JlecHou90 (2208 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 150
+hubble: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Th 6d]
+JlecHou90: folds 
+ThiagoKbelo: raises 2256 to 2556 and is all-in
+ZombiChicken: folds 
+hubble: folds 
+Uncalled bet (2256) returned to ThiagoKbelo
+ThiagoKbelo collected 850 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ThiagoKbelo (button) collected (850)
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 5: hubble (big blind) folded before Flop
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784626288: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:39:33 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (3106 in chips) 
+Seat 3: ZombiChicken (5369 in chips) 
+Seat 5: hubble (2842 in chips) 
+Seat 9: JlecHou90 (2183 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 150
+JlecHou90: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9h 8s]
+ThiagoKbelo: folds 
+ZombiChicken: folds 
+hubble: folds 
+Uncalled bet (150) returned to JlecHou90
+JlecHou90 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) collected (400)
+
+
+
+PokerStars domain.Hand #248784636208: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:00 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (3081 in chips) 
+Seat 3: ZombiChicken (5344 in chips) 
+Seat 5: hubble (2667 in chips) 
+Seat 9: JlecHou90 (2408 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 150
+ThiagoKbelo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kh As]
+ZombiChicken: raises 5019 to 5319 and is all-in
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (5019) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) folded before Flop
+Seat 3: ZombiChicken collected (850)
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784640838: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:12 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (2756 in chips) 
+Seat 3: ZombiChicken (5869 in chips) 
+Seat 5: hubble (2642 in chips) 
+Seat 9: JlecHou90 (2233 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ThiagoKbelo: posts small blind 150
+ZombiChicken: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8h Qs]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (150) returned to ZombiChicken
+ZombiChicken collected 400 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) collected (400)
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784646183: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:27 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2581 in chips) 
+Seat 3: ZombiChicken (6094 in chips) 
+Seat 5: hubble (2617 in chips) 
+Seat 9: JlecHou90 (2208 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 150
+hubble: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4d Jh]
+JlecHou90: folds 
+ThiagoKbelo: folds 
+ZombiChicken: folds 
+Uncalled bet (150) returned to hubble
+hubble collected 400 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (400)
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784654260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:49 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 1: ThiagoKbelo (2556 in chips) 
+Seat 3: ZombiChicken (5919 in chips) 
+Seat 5: hubble (2842 in chips) 
+Seat 9: JlecHou90 (2183 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 150
+JlecHou90: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [As 8h]
+ThiagoKbelo: folds 
+ZombiChicken: raises 5594 to 5894 and is all-in
+hubble: folds 
+JlecHou90: folds 
+Uncalled bet (5594) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ThiagoKbelo folded before Flop (didn't bet)
+Seat 3: ZombiChicken (button) collected (850)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784666937: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:23 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 1: ThiagoKbelo (2531 in chips) 
+Seat 3: ZombiChicken (6444 in chips) 
+Seat 5: hubble (2667 in chips) 
+Seat 9: JlecHou90 (1858 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 150
+ThiagoKbelo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd 5d]
+ZombiChicken: folds 
+hubble: raises 2342 to 2642 and is all-in
+JlecHou90: folds 
+ThiagoKbelo: folds 
+Uncalled bet (2342) returned to hubble
+hubble collected 850 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ThiagoKbelo (big blind) folded before Flop
+Seat 3: ZombiChicken folded before Flop (didn't bet)
+Seat 5: hubble (button) collected (850)
+Seat 9: JlecHou90 (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784678947: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:57 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 1: ThiagoKbelo (2206 in chips) 
+Seat 3: ZombiChicken (6419 in chips) 
+Seat 5: hubble (3192 in chips) 
+Seat 9: JlecHou90 (1683 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ThiagoKbelo: posts small blind 150
+ZombiChicken: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [6c 7h]
+hubble: folds 
+JlecHou90: folds 
+ThiagoKbelo: raises 1881 to 2181 and is all-in
+ZombiChicken: folds 
+Uncalled bet (1881) returned to ThiagoKbelo
+ThiagoKbelo collected 700 from pot
+ThiagoKbelo: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: ThiagoKbelo (small blind) collected (700)
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784686939: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:42:18 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (2581 in chips) 
+Seat 3: ZombiChicken (6094 in chips) 
+Seat 5: hubble (3167 in chips) 
+Seat 9: JlecHou90 (1658 in chips) 
+ThiagoKbelo: posts the ante 25
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 150
+hubble: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8c Jh]
+JlecHou90: folds 
+ThiagoKbelo: raises 300 to 600
+ZombiChicken: folds 
+hubble: raises 2542 to 3142 and is all-in
+ThiagoKbelo: calls 1956 and is all-in
+Uncalled bet (586) returned to hubble
+*** FLOP *** [3d 7d 9d]
+*** TURN *** [3d 7d 9d] [2s]
+*** RIVER *** [3d 7d 9d 2s] [6d]
+*** SHOW DOWN ***
+hubble: shows [7h 7s] (three of a kind, Sevens)
+ThiagoKbelo: shows [Ac Ah] (a pair of Aces)
+hubble collected 5362 from pot
+ThiagoKbelo finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 5362 | Rake 0 
+Board [3d 7d 9d 2s 6d]
+Seat 1: ThiagoKbelo (button) showed [Ac Ah] and lost with a pair of Aces
+Seat 3: ZombiChicken (small blind) folded before Flop
+Seat 5: hubble (big blind) showed [7h 7s] and won (5362) with three of a kind, Sevens
+Seat 9: JlecHou90 folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784698077: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:48 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5919 in chips) 
+Seat 5: hubble (5948 in chips) 
+Seat 9: JlecHou90 (1633 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 200
+JlecHou90: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5h 6s]
+ZombiChicken: folds 
+hubble: folds 
+Uncalled bet (200) returned to JlecHou90
+JlecHou90 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Seat 3: ZombiChicken (button) folded before Flop (didn't bet)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) collected (475)
+
+
+
+PokerStars domain.Hand #248784701302: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:57 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5894 in chips) 
+Seat 5: hubble (5723 in chips) 
+Seat 9: JlecHou90 (1883 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4s 5h]
+hubble: folds 
+JlecHou90: raises 1458 to 1858 and is all-in
+ZombiChicken: folds 
+Uncalled bet (1458) returned to JlecHou90
+JlecHou90 collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) folded before Flop (didn't bet)
+Seat 9: JlecHou90 (small blind) collected (875)
+
+
+
+PokerStars domain.Hand #248784705358: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:09 ET
+Table '3713502695 1' 9-max Seat #9 is the button
+Seat 3: ZombiChicken (5469 in chips) 
+Seat 5: hubble (5698 in chips) 
+Seat 9: JlecHou90 (2333 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5d 7d]
+JlecHou90: folds 
+ZombiChicken: raises 800 to 1200
+hubble: folds 
+Uncalled bet (800) returned to ZombiChicken
+ZombiChicken collected 875 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 3: ZombiChicken (small blind) collected (875)
+Seat 5: hubble (big blind) folded before Flop
+Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars domain.Hand #248784709828: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:21 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5919 in chips) 
+Seat 5: hubble (5273 in chips) 
+Seat 9: JlecHou90 (2308 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+hubble: posts small blind 200
+JlecHou90: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kh 8d]
+ZombiChicken: raises 800 to 1200
+hubble: folds 
+JlecHou90: folds 
+Uncalled bet (800) returned to ZombiChicken
+ZombiChicken collected 1075 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Seat 3: ZombiChicken (button) collected (1075)
+Seat 5: hubble (small blind) folded before Flop
+Seat 9: JlecHou90 (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784717248: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:41 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6569 in chips) 
+Seat 5: hubble (5048 in chips) 
+Seat 9: JlecHou90 (1883 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+JlecHou90: posts the ante 25
+JlecHou90: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Qc Kh]
+hubble: raises 550 to 950
+JlecHou90: raises 908 to 1858 and is all-in
+ZombiChicken: folds 
+hubble: calls 908
+*** FLOP *** [Jc 2h 4h]
+*** TURN *** [Jc 2h 4h] [8s]
+*** RIVER *** [Jc 2h 4h 8s] [Jd]
+*** SHOW DOWN ***
+JlecHou90: shows [9h Ah] (a pair of Jacks)
+hubble: shows [7c 7h] (two pair, Jacks and Sevens)
+hubble collected 4191 from pot
+JlecHou90 finished the tournament in 3rd place and received $1.58.
+*** SUMMARY ***
+Total pot 4191 | Rake 0 
+Board [Jc 2h 4h 8s Jd]
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) showed [7c 7h] and won (4191) with two pair, Jacks and Sevens
+Seat 9: JlecHou90 (small blind) showed [9h Ah] and lost with a pair of Jacks
+
+
+
+PokerStars domain.Hand #248784727331: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:08 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6144 in chips) 
+Seat 5: hubble (7356 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Qd Jh]
+ZombiChicken: raises 5719 to 6119 and is all-in
+hubble: folds 
+Uncalled bet (5719) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (850)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784732060: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:22 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6569 in chips) 
+Seat 5: hubble (6931 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9d Ks]
+hubble: folds 
+Uncalled bet (200) returned to ZombiChicken
+ZombiChicken collected 450 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (450)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784734239: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:28 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6794 in chips) 
+Seat 5: hubble (6706 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3d 8s]
+ZombiChicken: folds 
+Uncalled bet (200) returned to hubble
+hubble collected 450 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (450)
+
+
+
+PokerStars domain.Hand #248784737118: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:36 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6569 in chips) 
+Seat 5: hubble (6931 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8c Td]
+hubble: raises 400 to 800
+ZombiChicken: calls 400
+*** FLOP *** [7s 6h 3h]
+ZombiChicken: checks 
+hubble: bets 650
+ZombiChicken: folds 
+Uncalled bet (650) returned to hubble
+hubble collected 1650 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [7s 6h 3h]
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 5: hubble (button) (small blind) collected (1650)
+
+
+
+PokerStars domain.Hand #248784749286: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:08 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5744 in chips) 
+Seat 5: hubble (7756 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2c 3c]
+ZombiChicken: folds 
+Uncalled bet (200) returned to hubble
+hubble collected 450 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (450)
+
+
+
+PokerStars domain.Hand #248784751861: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:15 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5519 in chips) 
+Seat 5: hubble (7981 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ts Tc]
+hubble: calls 200
+ZombiChicken: raises 5094 to 5494 and is all-in
+hubble: folds 
+Uncalled bet (5094) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (850)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784756786: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:29 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5944 in chips) 
+Seat 5: hubble (7556 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7d Ts]
+ZombiChicken: folds 
+Uncalled bet (200) returned to hubble
+hubble collected 450 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (450)
+
+
+
+PokerStars domain.Hand #248784761352: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:42 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5719 in chips) 
+Seat 5: hubble (7781 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7h Ts]
+hubble: raises 400 to 800
+ZombiChicken: calls 400
+*** FLOP *** [Jc 5h Kc]
+ZombiChicken: checks 
+hubble: bets 900
+ZombiChicken: folds 
+Uncalled bet (900) returned to hubble
+hubble collected 1650 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Jc 5h Kc]
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 5: hubble (button) (small blind) collected (1650)
+
+
+
+PokerStars domain.Hand #248784773444: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:14 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (4894 in chips) 
+Seat 5: hubble (8606 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd Qh]
+ZombiChicken: raises 600 to 1000
+hubble: folds 
+Uncalled bet (600) returned to ZombiChicken
+ZombiChicken collected 850 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (850)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784780312: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:33 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5319 in chips) 
+Seat 5: hubble (8181 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5s 7s]
+hubble: folds 
+Uncalled bet (200) returned to ZombiChicken
+ZombiChicken collected 450 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (450)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784782543: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:40 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5544 in chips) 
+Seat 5: hubble (7956 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [6d Kc]
+ZombiChicken: calls 200
+hubble: raises 1600 to 2000
+ZombiChicken: folds 
+Uncalled bet (1600) returned to hubble
+hubble collected 850 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (850)
+
+
+
+PokerStars domain.Hand #248784794496: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:12 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5119 in chips) 
+Seat 5: hubble (8381 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+hubble: posts small blind 200
+ZombiChicken: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9s 2h]
+hubble: raises 400 to 800
+ZombiChicken: folds 
+Uncalled bet (400) returned to hubble
+hubble collected 850 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (850)
+
+
+
+PokerStars domain.Hand #248784798404: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:23 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (4694 in chips) 
+Seat 5: hubble (8806 in chips) 
+ZombiChicken: posts the ante 25
+hubble: posts the ante 25
+ZombiChicken: posts small blind 200
+hubble: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2d Ad]
+ZombiChicken: raises 4269 to 4669 and is all-in
+hubble: calls 4269
+*** FLOP *** [9s Jd 9d]
+*** TURN *** [9s Jd 9d] [5c]
+*** RIVER *** [9s Jd 9d 5c] [Tc]
+*** SHOW DOWN ***
+hubble: shows [Ac 7h] (a pair of Nines)
+ZombiChicken: shows [2d Ad] (a pair of Nines)
+hubble collected 4694 from pot
+ZombiChicken collected 4694 from pot
+*** SUMMARY ***
+Total pot 9388 | Rake 0 
+Board [9s Jd 9d 5c Tc]
+Seat 3: ZombiChicken (button) (small blind) showed [2d Ad] and won (4694) with a pair of Nines
+Seat 5: hubble (big blind) showed [Ac 7h] and won (4694) with a pair of Nines
+
+
+
+PokerStars domain.Hand #248784806679: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:45 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (4694 in chips) 
+Seat 5: hubble (8806 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [4c 7d]
+hubble: folds 
+Uncalled bet (300) returned to ZombiChicken
+ZombiChicken collected 700 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (700)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784808958: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:52 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5044 in chips) 
+Seat 5: hubble (8456 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8h Qh]
+ZombiChicken: raises 4394 to 4994 and is all-in
+hubble: folds 
+Uncalled bet (4394) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1300)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784814525: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:07 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (5694 in chips) 
+Seat 5: hubble (7806 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5s Qc]
+hubble: calls 300
+ZombiChicken: checks 
+*** FLOP *** [Th As 8c]
+ZombiChicken: checks 
+hubble: bets 600
+ZombiChicken: folds 
+Uncalled bet (600) returned to hubble
+hubble collected 1300 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Th As 8c]
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 5: hubble (button) (small blind) collected (1300)
+
+
+
+PokerStars domain.Hand #248784822824: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:30 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5044 in chips) 
+Seat 5: hubble (8456 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3h Td]
+ZombiChicken: folds 
+Uncalled bet (300) returned to hubble
+hubble collected 700 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (700)
+
+
+
+PokerStars domain.Hand #248784825139: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:36 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (4694 in chips) 
+Seat 5: hubble (8806 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Js 8h]
+hubble: raises 8156 to 8756 and is all-in
+ZombiChicken: folds 
+Uncalled bet (8156) returned to hubble
+hubble collected 1300 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (1300)
+
+
+
+PokerStars domain.Hand #248784829042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:47 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (4044 in chips) 
+Seat 5: hubble (9456 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7s 8d]
+ZombiChicken: raises 3394 to 3994 and is all-in
+hubble: calls 3394
+*** FLOP *** [9c Td Jc]
+*** TURN *** [9c Td Jc] [6h]
+*** RIVER *** [9c Td Jc 6h] [3d]
+*** SHOW DOWN ***
+hubble: shows [Th Kd] (a pair of Tens)
+ZombiChicken: shows [7s 8d] (a straight, Seven to Jack)
+ZombiChicken collected 8088 from pot
+*** SUMMARY ***
+Total pot 8088 | Rake 0 
+Board [9c Td Jc 6h 3d]
+Seat 3: ZombiChicken (button) (small blind) showed [7s 8d] and won (8088) with a straight, Seven to Jack
+Seat 5: hubble (big blind) showed [Th Kd] and lost with a pair of Tens
+
+
+
+PokerStars domain.Hand #248784837578: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:10 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (8088 in chips) 
+Seat 5: hubble (5412 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7s 5h]
+hubble: calls 300
+ZombiChicken: checks 
+*** FLOP *** [6h 2c Ac]
+ZombiChicken: checks 
+hubble: bets 600
+ZombiChicken: folds 
+Uncalled bet (600) returned to hubble
+hubble collected 1300 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [6h 2c Ac]
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 5: hubble (button) (small blind) collected (1300)
+
+
+
+PokerStars domain.Hand #248784846665: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:35 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (7438 in chips) 
+Seat 5: hubble (6062 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [2h 4h]
+ZombiChicken: calls 300
+hubble: checks 
+*** FLOP *** [7s Qh 8c]
+hubble: checks 
+ZombiChicken: bets 650
+hubble: calls 650
+*** TURN *** [7s Qh 8c] [6d]
+hubble: checks 
+ZombiChicken: checks 
+*** RIVER *** [7s Qh 8c 6d] [3c]
+hubble: bets 2400
+ZombiChicken: folds 
+Uncalled bet (2400) returned to hubble
+hubble collected 2600 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [7s Qh 8c 6d 3c]
+Seat 3: ZombiChicken (button) (small blind) folded on the River
+Seat 5: hubble (big blind) collected (2600)
+
+
+
+PokerStars domain.Hand #248784861943: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:16 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6138 in chips) 
+Seat 5: hubble (7362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Jd Kc]
+hubble: folds 
+Uncalled bet (300) returned to ZombiChicken
+ZombiChicken collected 700 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (700)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784864364: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:23 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6488 in chips) 
+Seat 5: hubble (7012 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3d Qh]
+ZombiChicken: folds 
+Uncalled bet (300) returned to hubble
+hubble collected 700 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (700)
+
+
+
+PokerStars domain.Hand #248784870255: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:39 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6138 in chips) 
+Seat 5: hubble (7362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [6h Qs]
+hubble: raises 6712 to 7312 and is all-in
+ZombiChicken: folds 
+Uncalled bet (6712) returned to hubble
+hubble collected 1300 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (1300)
+
+
+
+PokerStars domain.Hand #248784876127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:54 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5488 in chips) 
+Seat 5: hubble (8012 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Js 9h]
+ZombiChicken: raises 4838 to 5438 and is all-in
+hubble: folds 
+Uncalled bet (4838) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1300)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784880300: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:06 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6138 in chips) 
+Seat 5: hubble (7362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9s Td]
+hubble: raises 6712 to 7312 and is all-in
+ZombiChicken: folds 
+Uncalled bet (6712) returned to hubble
+hubble collected 1300 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (1300)
+
+
+
+PokerStars domain.Hand #248784884845: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:18 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (5488 in chips) 
+Seat 5: hubble (8012 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kh 6h]
+ZombiChicken: raises 4838 to 5438 and is all-in
+hubble: folds 
+Uncalled bet (4838) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1300)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784888426: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:28 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (6138 in chips) 
+Seat 5: hubble (7362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Kd 2s]
+hubble: calls 300
+ZombiChicken: checks 
+*** FLOP *** [Kc Tc 9h]
+ZombiChicken: checks 
+hubble: checks 
+*** TURN *** [Kc Tc 9h] [Ts]
+ZombiChicken: bets 650
+hubble: folds 
+Uncalled bet (650) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Kc Tc 9h Ts]
+Seat 3: ZombiChicken (big blind) collected (1300)
+Seat 5: hubble (button) (small blind) folded on the Turn
+
+
+
+PokerStars domain.Hand #248784902182: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:05 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6788 in chips) 
+Seat 5: hubble (6712 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [7d Qd]
+ZombiChicken: raises 6138 to 6738 and is all-in
+hubble: folds 
+Uncalled bet (6138) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1300)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784905558: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:14 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (7438 in chips) 
+Seat 5: hubble (6062 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 300
+ZombiChicken: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5h 3c]
+hubble: folds 
+Uncalled bet (300) returned to ZombiChicken
+ZombiChicken collected 700 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (700)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784907716: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:20 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (7788 in chips) 
+Seat 5: hubble (5712 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 300
+hubble: posts big blind 600
+*** HOLE CARDS ***
+Dealt to ZombiChicken [9s Qs]
+ZombiChicken: raises 7138 to 7738 and is all-in
+hubble: folds 
+Uncalled bet (7138) returned to ZombiChicken
+ZombiChicken collected 1300 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1300)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784917283: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:46 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (8438 in chips) 
+Seat 5: hubble (5062 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 400
+ZombiChicken: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Qh 3d]
+hubble: raises 4212 to 5012 and is all-in
+ZombiChicken: folds 
+Uncalled bet (4212) returned to hubble
+hubble collected 1700 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (1700)
+
+
+
+PokerStars domain.Hand #248784921567: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:58 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (7588 in chips) 
+Seat 5: hubble (5912 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 400
+hubble: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [5c 4h]
+ZombiChicken: folds 
+Uncalled bet (400) returned to hubble
+hubble collected 900 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (900)
+
+
+
+PokerStars domain.Hand #248784924138: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:05 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (7138 in chips) 
+Seat 5: hubble (6362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 400
+ZombiChicken: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Jh 5d]
+hubble: folds 
+Uncalled bet (400) returned to ZombiChicken
+ZombiChicken collected 900 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 3: ZombiChicken (big blind) collected (900)
+Seat 5: hubble (button) (small blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784927027: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:13 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (7588 in chips) 
+Seat 5: hubble (5912 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 400
+hubble: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Td 2s]
+ZombiChicken: folds 
+Uncalled bet (400) returned to hubble
+hubble collected 900 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) folded before Flop
+Seat 5: hubble (big blind) collected (900)
+
+
+
+PokerStars domain.Hand #248784930123: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:21 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (7138 in chips) 
+Seat 5: hubble (6362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 400
+ZombiChicken: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [6s 9s]
+hubble: raises 5512 to 6312 and is all-in
+ZombiChicken: folds 
+Uncalled bet (5512) returned to hubble
+hubble collected 1700 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 5: hubble (button) (small blind) collected (1700)
+
+
+
+PokerStars domain.Hand #248784934240: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:32 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6288 in chips) 
+Seat 5: hubble (7212 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 400
+hubble: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8s Js]
+ZombiChicken: raises 5438 to 6238 and is all-in
+hubble: folds 
+Uncalled bet (5438) returned to ZombiChicken
+ZombiChicken collected 1700 from pot
+ZombiChicken: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: ZombiChicken (button) (small blind) collected (1700)
+Seat 5: hubble (big blind) folded before Flop
+
+
+
+PokerStars domain.Hand #248784938941: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:45 ET
+Table '3713502695 1' 9-max Seat #5 is the button
+Seat 3: ZombiChicken (7138 in chips) 
+Seat 5: hubble (6362 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+hubble: posts small blind 400
+ZombiChicken: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [Ts 9c]
+hubble: calls 400
+ZombiChicken: checks 
+*** FLOP *** [Ad 4h Ac]
+ZombiChicken: checks 
+hubble: bets 800
+ZombiChicken: folds 
+Uncalled bet (800) returned to hubble
+hubble collected 1700 from pot
+hubble: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ad 4h Ac]
+Seat 3: ZombiChicken (big blind) folded on the Flop
+Seat 5: hubble (button) (small blind) collected (1700)
+
+
+
+PokerStars domain.Hand #248784947918: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:54:09 ET
+Table '3713502695 1' 9-max Seat #3 is the button
+Seat 3: ZombiChicken (6288 in chips) 
+Seat 5: hubble (7212 in chips) 
+ZombiChicken: posts the ante 50
+hubble: posts the ante 50
+ZombiChicken: posts small blind 400
+hubble: posts big blind 800
+*** HOLE CARDS ***
+Dealt to ZombiChicken [8h Kh]
+ZombiChicken: raises 5438 to 6238 and is all-in
+hubble: calls 5438
+*** FLOP *** [9d Js Qs]
+*** TURN *** [9d Js Qs] [2d]
+*** RIVER *** [9d Js Qs 2d] [3h]
+*** SHOW DOWN ***
+hubble: shows [Jd Jc] (three of a kind, Jacks)
+ZombiChicken: shows [8h Kh] (high card King)
+hubble collected 12576 from pot
+ZombiChicken finished the tournament in 2nd place and received $2.37.
+hubble wins the tournament and receives $3.97 - congratulations!
+*** SUMMARY ***
+Total pot 12576 | Rake 0 
+Board [9d Js Qs 2d 3h]
+Seat 3: ZombiChicken (button) (small blind) showed [8h Kh] and lost with high card King
+Seat 5: hubble (big blind) showed [Jd Jc] and won (12576) with three of a kind, Jacks
+
+
+

@@ -1,0 +1,49 @@
+PokerStars domain.Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
+Table '3713502695 1' 9-max Seat #1 is the button
+Seat 1: ThiagoKbelo (1500 in chips)
+Seat 2: Vietcongen (1500 in chips)
+Seat 3: ZombiChicken (1500 in chips)
+Seat 4: enzoen (1500 in chips)
+Seat 5: hubble (1500 in chips)
+Seat 6: Fayemouse (1500 in chips)
+Seat 7: FelipeBarca1 (1500 in chips)
+Seat 8: pericles420z (1500 in chips)
+Seat 9: JlecHou90 (1500 in chips)
+ThiagoKbelo: posts the ante 3
+Vietcongen: posts the ante 3
+ZombiChicken: posts the ante 3
+enzoen: posts the ante 3
+hubble: posts the ante 3
+Fayemouse: posts the ante 3
+FelipeBarca1: posts the ante 3
+pericles420z: posts the ante 3
+JlecHou90: posts the ante 3
+Vietcongen: posts small blind 10
+ZombiChicken: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ZombiChicken [3c 4h]
+enzoen: raises 20 to 40
+hubble: folds
+Fayemouse: calls 40
+FelipeBarca1: raises 1457 to 1497 and is all-in
+pericles420z: folds
+pericles420z is sitting out
+JlecHou90: folds
+ThiagoKbelo: folds
+Vietcongen: folds
+ZombiChicken: folds
+enzoen: folds
+Fayemouse: folds
+Uncalled bet (1457) returned to FelipeBarca1
+FelipeBarca1 collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | Rake 0
+Seat 1: ThiagoKbelo (button) folded before Flop (didn't bet)
+Seat 2: Vietcongen (small blind) folded before Flop
+Seat 3: ZombiChicken (big blind) folded before Flop
+Seat 4: enzoen folded before Flop
+Seat 5: hubble folded before Flop (didn't bet)
+Seat 6: Fayemouse folded before Flop
+Seat 7: FelipeBarca1 collected (177)
+Seat 8: pericles420z folded before Flop (didn't bet)
+Seat 9: JlecHou90 folded before Flop (didn't bet)

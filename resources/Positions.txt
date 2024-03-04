@@ -1,0 +1,21 @@
+BU + 2 -> BB
+
+BU + 1 -> SB (small blind)
+BU - button ->BU
+
+BU - 1 -> CO
+BU - 2 -> HJ
+BU - 3 -> LJ
+BU - 4 -> EP3
+BU - 5 -> EP2
+BU - 6 -> EP1
+
+
+pl.: seat 3 button
+seat 4 -> CO
+
+
+
+When only 3 players play, then there is no CO anymore.
+
+If only 2 players play, there then BU is also SB (should be displayed as BU & SB)
