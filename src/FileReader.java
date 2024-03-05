@@ -1,5 +1,4 @@
 import domain.Hand;
-import domain.Player;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -31,12 +30,9 @@ public class FileReader {
                 originalDataBlocks.get(counter).add(line);
             }
         }
-        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
-            for (int i = 0; i < entry.getValue().size(); i++) {
-                System.out.println(entry.getKey() + " - " + entry.getValue().get(i));
-            }
-        }
-        return FileCutter.findNeededBlocks(originalDataBlocks);
+        LineCutter.findNeededLines(originalDataBlocks);
+
+        return LineCutter.findNeededBlocks(originalDataBlocks);
     }
 
 
