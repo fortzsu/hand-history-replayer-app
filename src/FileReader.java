@@ -31,6 +31,11 @@ public class FileReader {
                 originalDataBlocks.get(counter).add(line);
             }
         }
+        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
+            for (int i = 0; i < entry.getValue().size(); i++) {
+                System.out.println(entry.getKey() + " - " + entry.getValue().get(i));
+            }
+        }
         return FileCutter.findNeededBlocks(originalDataBlocks);
     }
 

@@ -41,11 +41,11 @@ public class FileCutter {
 
             }
         }
-        System.out.println(buttonLine);
-        System.out.println(seats);
-        System.out.println(cards);
-        System.out.println(actions);
-        System.out.println(actionClosure);
+//        System.out.println(buttonLine);
+//        System.out.println(seats);
+//        System.out.println(cards);
+//        System.out.println(actions);
+//        System.out.println(actionClosure);
         return HandMaker.fillHandsWithData(originalDataBlocks);
     }
 
