@@ -1,5 +1,6 @@
 import domain.Hand;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -11,7 +12,8 @@ public class HandMaker {
     private static final String SEAT = "Seat ";
     private static final String TABLE = "Table ";
 
-    public static void fillHandsWithData(Map<Integer, List<String>> originalDataBlocks, List<Hand> hands) {
+    public static List<Hand> fillHandsWithData(Map<Integer, List<String>> originalDataBlocks) {
+        List<Hand> hands = new ArrayList<>();
         for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
             Hand hand = new Hand();
             for (String originalDataLines : entry.getValue()) {
@@ -23,6 +25,7 @@ public class HandMaker {
             }
             hands.add(hand);
         }
+        return hands;
     }
 
     private static void createPlayers(String originalDataLines, Hand hand) {
