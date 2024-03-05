@@ -15,9 +15,7 @@ public class FileReader {
     public static List<Hand> readFromFile() throws IOException {
         Path path = Paths.get("resources/text_file.txt");
         List<String> lines = Files.readAllLines(path);
-        List<Hand> hands = findOriginalDataBlocks(lines);
-        System.out.println(hands);
-        return hands;
+        return findOriginalDataBlocks(lines);
     }
 
     private static List<Hand> findOriginalDataBlocks(List<String> lines) {
@@ -33,7 +31,7 @@ public class FileReader {
                 originalDataBlocks.get(counter).add(line);
             }
         }
-        return HandMaker.fillHandsWithData(originalDataBlocks);
+        return FileCutter.findNeededBlocks(originalDataBlocks);
     }
 
 

@@ -1,9 +1,10 @@
+import domain.Hand;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
 public class FileCutter {
-
 
     private static String buttonLine;
     private static  final List<String> seats = new ArrayList<>();
@@ -11,9 +12,8 @@ public class FileCutter {
     private static final List<String> actions = new ArrayList<>();
     private static final List<String> actionClosure = new ArrayList<>();
 
-    private static void findNeededBlocks(Map<Integer, List<String>> originalDataBlocks) {
+    public static List<Hand> findNeededBlocks(Map<Integer, List<String>> originalDataBlocks) {
         for (List<String> value : originalDataBlocks.values()) {
-
             for (int i = 0; i < value.size(); i++) {
                 if(value.get(i).contains("is the button")) {
                     buttonLine = value.get(i);
@@ -46,6 +46,7 @@ public class FileCutter {
         System.out.println(cards);
         System.out.println(actions);
         System.out.println(actionClosure);
+        return HandMaker.fillHandsWithData(originalDataBlocks);
     }
 
 
