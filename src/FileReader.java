@@ -30,9 +30,15 @@ public class FileReader {
                 originalDataBlocks.get(counter).add(line);
             }
         }
-        LineCutter.findNeededLines(originalDataBlocks);
+        myMethod(originalDataBlocks);
+        return new ArrayList<>();
+    }
 
-        return LineCutter.findNeededBlocks(originalDataBlocks);
+    private static void myMethod(Map<Integer, List<String>> originalDataBlocks) {
+        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
+            LineCutter.findNeededLines(entry.getKey(), entry.getValue());
+        }
+        LineCutter.printer();
     }
 
 

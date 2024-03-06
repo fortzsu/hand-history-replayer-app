@@ -1,63 +1,62 @@
-import domain.Hand;
+import domain.Block;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 public class LineCutter {
 
-    private static String buttonLine;
-    private static final List<String> seats = new ArrayList<>();
-    private static String cards;
-    private static final List<String> actions = new ArrayList<>();
-    private static final List<String> actionClosure = new ArrayList<>();
+    private static List<Block> blocks = new ArrayList<>();
 
-    public static void findNeededLines(Map<Integer, List<String>> originalDataBlocks) {
-        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
-            System.out.println(entry.getKey());
-            for (int i = 0; i < entry.getValue().size(); i++) {
-                System.out.println(entry.getValue().get(i));
+    public static void findNeededLines(Integer id, List<String> originalLines) {
+        Block block = new Block();
+        block.setId(id);
+        String uncalledLine = "";
+        for (String originalLine : originalLines) {
+            if (originalLine.contains("is the button")) {
+                block.setButtonLine(originalLine);
+            }
+            if (originalLine.contains("Seat") && originalLine.contains("chips")) {
+                block.addSeat(originalLine);
+            }
+            if (originalLine.contains("Dealt to ZombiChicken")) {
+                block.setCards(originalLine);
+            }
+            if (originalLine.contains("posts big blind")) {
+                block.setBigBlind(originalLine);
+            }
+            if(originalLine.contains("Uncalled")) {
+                uncalledLine = originalLine;
             }
         }
+        findActions(originalLines.indexOf(block.getCards()) + 1, originalLines, block);
+        findActionClosures(originalLines.indexOf(uncalledLine), originalLines, block);
+        blocks.add(block);
     }
 
-    public static List<Hand> findNeededBlocks(Map<Integer, List<String>> originalDataBlocks) {
-            for (List<String> value : originalDataBlocks.values()) {
-                for (int i = 0; i < value.size(); i++) {
-                    if (value.get(i).contains("is the button")) {
-                        buttonLine = value.get(i);
-                        int j = i + 1;
-                        while (value.get(j).startsWith("Seat")) {
-                            seats.add(value.get(j));
-                            j++;
-                        }
-                    }
-                    if (value.get(i).contains("Dealt to")) {
-                        cards = value.get(i);
-                        int j = i + 1;
-                        while (!value.get(j).startsWith("Uncalled") && j < value.size() - 1) {
-                            actions.add(value.get(j));
-                            j++;
-                        }
-                    }
-                    if (value.get(i).startsWith("Uncalled")) {
-                        int k = i;
-                        while (!value.get(k).startsWith("***")) {
-                            actionClosure.add(value.get(k));
-                            k++;
-                        }
-                    }
-
-                }
-
+    private static void findActions(int i, List<String> originalLines, Block block) {
+        while (!originalLines.get(i).contains("Uncalled") && i < originalLines.size() - 1) {
+            block.addAction(originalLines.get(i));
+            i++;
         }
-//        System.out.println(buttonLine);
-//        System.out.println(seats);
-//        System.out.println(cards);
-//        System.out.println(actions);
-//        System.out.println(actionClosure);
-        return HandMaker.fillHandsWithData(originalDataBlocks);
+    }
+
+    private static void findActionClosures(int i, List<String> originalLines, Block block) {
+        while (!originalLines.get(i).contains("SUMMARY") && i < originalLines.size() - 1) {
+            block.addActionClosure(originalLines.get(i));
+            i++;
+        }
     }
 
 
+    public static void printer() {
+        for (Block block : blocks) {
+            System.out.println(block.getId());
+            System.out.println(block.getButtonLine());
+            System.out.println(block.getBigBlind());
+            System.out.println(block.getCards());
+            System.out.println(block.getActions());
+            System.out.println(block.getSeats());
+            System.out.println(block.getActionClosure());
+        }
+    }
 }
