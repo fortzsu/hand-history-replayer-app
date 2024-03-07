@@ -1,5 +1,3 @@
-import domain.Hand;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -22,7 +20,7 @@ public class FileReader {
         int counter = 0;
         for (String line : lines) {
             List<String> blocks = new ArrayList<>();
-            if (line.contains("PokerStars domain.Hand")) {
+            if (line.contains("PokerStars Hand")) {
                 counter++;
                 blocks.add(line);
                 originalDataBlocks.put(counter, blocks);
@@ -30,15 +28,25 @@ public class FileReader {
                 originalDataBlocks.get(counter).add(line);
             }
         }
-        myMethod(originalDataBlocks);
-        return new ArrayList<>();
+
+        return findHandsOfBlocks(turnDataLinesIntoBlocks(originalDataBlocks));
     }
 
-    private static void myMethod(Map<Integer, List<String>> originalDataBlocks) {
-        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
-            LineCutter.findNeededLines(entry.getKey(), entry.getValue());
+    private static List<Hand> findHandsOfBlocks(List<Block> blocks) {
+        List<Hand> hands = new ArrayList<>();
+        for (Block block : blocks) {
+            hands.add(block.getHand());
         }
-        LineCutter.printer();
+        return hands;
+    }
+
+    private static List<Block> turnDataLinesIntoBlocks(Map<Integer, List<String>> originalDataBlocks) {
+        List<Block> blocks = new ArrayList<>();
+        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
+            Block tempBlock = LineCutter.findNeededLines(entry.getKey(), entry.getValue());
+            blocks.add(tempBlock);
+        }
+        return blocks;
     }
 
 

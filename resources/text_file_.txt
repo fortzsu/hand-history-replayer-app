@@ -1,4 +1,4 @@
-PokerStars domain.Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
+PokerStars Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1500 in chips)
 Seat 2: Vietcongen (1500 in chips)

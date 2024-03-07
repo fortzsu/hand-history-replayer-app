@@ -1,6 +1,3 @@
-import domain.Hand;
-import domain.Player;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

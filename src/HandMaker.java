@@ -1,52 +1,19 @@
-import domain.Hand;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
 public class HandMaker {
 
-    private static final String PLAYER_CARDS = "Dealt to ZombiChicken";
-    private static final String BIG_BLIND = "posts big blind";
-    private static final String CHIP = "chips";
-    private static final String SEAT = "Seat ";
-    private static final String TABLE = "Table ";
-
-    public static List<Hand> fillHandsWithData(Map<Integer, List<String>> originalDataBlocks) {
-        List<Hand> hands = new ArrayList<>();
-        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
-            Hand hand = new Hand();
-            for (String originalDataLines : entry.getValue()) {
-                hand.setId(entry.getKey());
-                if (originalDataLines.contains(PLAYER_CARDS)) {
-                    hand.setCards(originalDataLines);
-                }
-                createPlayers(originalDataLines, hand);
-            }
-            hands.add(hand);
+    public static Hand makeHandFromBlock(Block block) {
+        Hand hand = new Hand();
+        hand.setId(block.getId());
+        hand.setBigBlind(block.getBigBlind());
+        hand.setCards(block.getCards());
+        hand.setCurrentButton(block.getButtonLine());
+        for (String seat : block.getSeats()) {
+            setPlayerFields(seat, hand);
         }
-        return hands;
-    }
-
-    private static void createPlayers(String originalDataLines, Hand hand) {
-        findBigBlind(originalDataLines, hand);
-        findPlayers(originalDataLines, hand);
-        if (originalDataLines.contains(SEAT) && originalDataLines.contains(TABLE)) {
-            hand.setCurrentButton(originalDataLines);
-        }
-
-    }
-
-    private static void findPlayers(String originalDataLines, Hand hand) {
-        if (originalDataLines.contains(SEAT) && originalDataLines.contains(CHIP)) {
-            setPlayerFields(originalDataLines, hand);
-        }
-    }
-
-    private static void findBigBlind(String originalDataLines, Hand hand) {
-        if (originalDataLines.contains(BIG_BLIND)) {
-            hand.setBigBlind(originalDataLines);
-        }
+        return hand;
     }
 
     private static void setPlayerFields(String originalDataLines, Hand hand) {
@@ -60,5 +27,4 @@ public class HandMaker {
         hand.checkIfPlayersPositionIsTakenAndAddNew(seat, player, chipCount);
         hand.findCurrentPlayerPosition();
     }
-
 }

@@ -1,7 +1,6 @@
-package domain;
-
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class Block {
 
@@ -12,7 +11,15 @@ public class Block {
     private final List<String> seats = new ArrayList<>();
     private final List<String> actions = new ArrayList<>();
     private final List<String> actionClosure = new ArrayList<>();
+    private Hand hand;
 
+    public Hand getHand() {
+        return hand;
+    }
+
+    public void setHand() {
+        this.hand = HandMaker.makeHandFromBlock(this);
+    }
 
     public String getBigBlind() {
         return bigBlind;

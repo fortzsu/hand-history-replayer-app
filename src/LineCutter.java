@@ -1,13 +1,8 @@
-import domain.Block;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class LineCutter {
 
-    private static List<Block> blocks = new ArrayList<>();
-
-    public static void findNeededLines(Integer id, List<String> originalLines) {
+    public static Block findNeededLines(Integer id, List<String> originalLines) {
         Block block = new Block();
         block.setId(id);
         String uncalledLine = "";
@@ -30,7 +25,8 @@ public class LineCutter {
         }
         findActions(originalLines.indexOf(block.getCards()) + 1, originalLines, block);
         findActionClosures(originalLines.indexOf(uncalledLine), originalLines, block);
-        blocks.add(block);
+        block.setHand();
+        return block;
     }
 
     private static void findActions(int i, List<String> originalLines, Block block) {
@@ -47,16 +43,4 @@ public class LineCutter {
         }
     }
 
-
-    public static void printer() {
-        for (Block block : blocks) {
-            System.out.println(block.getId());
-            System.out.println(block.getButtonLine());
-            System.out.println(block.getBigBlind());
-            System.out.println(block.getCards());
-            System.out.println(block.getActions());
-            System.out.println(block.getSeats());
-            System.out.println(block.getActionClosure());
-        }
-    }
 }

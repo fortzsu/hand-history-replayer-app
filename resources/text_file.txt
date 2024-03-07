@@ -1,4 +1,4 @@
-﻿PokerStars domain.Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
+﻿PokerStars Hand #248783819780: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:02:36 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1500 in chips) 
 Seat 2: Vietcongen (1500 in chips) 
@@ -50,7 +50,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248783832653: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:16 ET
+PokerStars Hand #248783832653: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:16 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (1497 in chips) 
 Seat 2: Vietcongen (1487 in chips) 
@@ -101,7 +101,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248783844150: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:50 ET
+PokerStars Hand #248783844150: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:03:50 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (1494 in chips) 
 Seat 2: Vietcongen (1484 in chips) 
@@ -161,7 +161,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248783856189: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:04:24 ET
+PokerStars Hand #248783856189: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:04:24 ET
 Table '3713502695 1' 9-max Seat #4 is the button
 Seat 1: ThiagoKbelo (1491 in chips) 
 Seat 2: Vietcongen (1481 in chips) 
@@ -220,7 +220,7 @@ Seat 9: JlecHou90 folded on the Flop
 
 
 
-PokerStars domain.Hand #248783887276: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:05:52 ET
+PokerStars Hand #248783887276: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:05:52 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (1488 in chips) 
 Seat 2: Vietcongen (1388 in chips) 
@@ -267,7 +267,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248783899624: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:06:26 ET
+PokerStars Hand #248783899624: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:06:26 ET
 Table '3713502695 1' 9-max Seat #7 is the button
 Seat 1: ThiagoKbelo (1485 in chips) 
 Seat 2: Vietcongen (1365 in chips) 
@@ -333,7 +333,7 @@ Seat 9: JlecHou90 (big blind) showed [Jc Qc] and won (1080) with two pair, Jacks
 
 
 
-PokerStars domain.Hand #248783920978: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:07:25 ET
+PokerStars Hand #248783920978: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level I (10/20) - 2024/02/09 15:07:25 ET
 Table '3713502695 1' 9-max Seat #8 is the button
 Seat 1: ThiagoKbelo (1482 in chips) 
 Seat 2: Vietcongen (890 in chips) 
@@ -388,7 +388,7 @@ Seat 9: JlecHou90 (small blind) folded on the Turn
 
 
 
-PokerStars domain.Hand #248783936042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:07 ET
+PokerStars Hand #248783936042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:07 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (1543 in chips) 
 Seat 2: Vietcongen (887 in chips) 
@@ -434,7 +434,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248783943387: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:27 ET
+PokerStars Hand #248783943387: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:08:27 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1524 in chips) 
 Seat 2: Vietcongen (853 in chips) 
@@ -490,7 +490,7 @@ Seat 9: JlecHou90 folded on the Turn
 
 
 
-PokerStars domain.Hand #248783965260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:09:28 ET
+PokerStars Hand #248783965260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:09:28 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (1520 in chips) 
 Seat 2: Vietcongen (789 in chips) 
@@ -552,7 +552,7 @@ Seat 9: JlecHou90 folded on the Flop
 
 
 
-PokerStars domain.Hand #248783998734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:11:01 ET
+PokerStars Hand #248783998734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:11:01 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (1516 in chips) 
 Seat 2: Vietcongen (1647 in chips) 
@@ -606,7 +606,7 @@ Seat 9: JlecHou90 folded before Flop
 
 
 
-PokerStars domain.Hand #248784021036: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:12:04 ET
+PokerStars Hand #248784021036: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level II (15/30) - 2024/02/09 15:12:04 ET
 Table '3713502695 1' 9-max Seat #4 is the button
 Seat 1: ThiagoKbelo (1889 in chips) 
 Seat 2: Vietcongen (1403 in chips) 
@@ -666,7 +666,7 @@ Seat 9: JlecHou90 folded on the Flop
 
 
 
-PokerStars domain.Hand #248784060501: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:13:53 ET
+PokerStars Hand #248784060501: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:13:53 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (955 in chips) 
 Seat 2: Vietcongen (2496 in chips) 
@@ -728,7 +728,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784089734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:13 ET
+PokerStars Hand #248784089734: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:13 ET
 Table '3713502695 1' 9-max Seat #7 is the button
 Seat 1: ThiagoKbelo (949 in chips) 
 Seat 2: Vietcongen (3725 in chips) 
@@ -773,7 +773,7 @@ Seat 9: JlecHou90 (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784095639: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:29 ET
+PokerStars Hand #248784095639: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:15:29 ET
 Table '3713502695 1' 9-max Seat #8 is the button
 Seat 1: ThiagoKbelo (943 in chips) 
 Seat 2: Vietcongen (3842 in chips) 
@@ -821,7 +821,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784109492: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:07 ET
+PokerStars Hand #248784109492: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:07 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (1235 in chips) 
 Seat 2: Vietcongen (3786 in chips) 
@@ -874,7 +874,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784121017: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:39 ET
+PokerStars Hand #248784121017: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level III (25/50) - 2024/02/09 15:16:39 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1204 in chips) 
 Seat 2: Vietcongen (4053 in chips) 
@@ -927,7 +927,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784144642: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:17:44 ET
+PokerStars Hand #248784144642: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:17:44 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (1048 in chips) 
 Seat 2: Vietcongen (4345 in chips) 
@@ -977,7 +977,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784157362: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:18:20 ET
+PokerStars Hand #248784157362: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:18:20 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (1038 in chips) 
 Seat 2: Vietcongen (4535 in chips) 
@@ -1032,7 +1032,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784176821: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:13 ET
+PokerStars Hand #248784176821: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:13 ET
 Table '3713502695 1' 9-max Seat #4 is the button
 Seat 1: ThiagoKbelo (1028 in chips) 
 Seat 2: Vietcongen (4245 in chips) 
@@ -1078,7 +1078,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784185952: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:38 ET
+PokerStars Hand #248784185952: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:19:38 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (1218 in chips) 
 Seat 2: Vietcongen (4235 in chips) 
@@ -1124,7 +1124,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784195383: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:20:04 ET
+PokerStars Hand #248784195383: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:20:04 ET
 Table '3713502695 1' 9-max Seat #7 is the button
 Seat 1: ThiagoKbelo (1408 in chips) 
 Seat 2: Vietcongen (4225 in chips) 
@@ -1177,7 +1177,7 @@ Seat 9: JlecHou90 (big blind) folded on the Flop
 
 
 
-PokerStars domain.Hand #248784220001: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:10 ET
+PokerStars Hand #248784220001: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:10 ET
 Table '3713502695 1' 9-max Seat #8 is the button
 Seat 1: ThiagoKbelo (1398 in chips) 
 Seat 2: Vietcongen (4215 in chips) 
@@ -1231,7 +1231,7 @@ Seat 9: JlecHou90 (small blind) showed [As 9h] and won (962) with high card Ace
 
 
 
-PokerStars domain.Hand #248784234127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:48 ET
+PokerStars Hand #248784234127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IV (40/80) - 2024/02/09 15:21:48 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (1308 in chips) 
 Seat 2: Vietcongen (4125 in chips) 
@@ -1288,7 +1288,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784256445: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:22:48 ET
+PokerStars Hand #248784256445: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:22:48 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1258 in chips) 
 Seat 2: Vietcongen (3415 in chips) 
@@ -1340,7 +1340,7 @@ Seat 9: JlecHou90 showed [Ah 9d] and won (2174) with high card Ace
 
 
 
-PokerStars domain.Hand #248784268380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:23:20 ET
+PokerStars Hand #248784268380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:23:20 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (1243 in chips) 
 Seat 2: Vietcongen (3340 in chips) 
@@ -1391,7 +1391,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784288897: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:24:16 ET
+PokerStars Hand #248784288897: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:24:16 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (1228 in chips) 
 Seat 2: Vietcongen (3325 in chips) 
@@ -1452,7 +1452,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784314472: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:25:26 ET
+PokerStars Hand #248784314472: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:25:26 ET
 Table '3713502695 1' 9-max Seat #4 is the button
 Seat 1: ThiagoKbelo (1213 in chips) 
 Seat 2: Vietcongen (4138 in chips) 
@@ -1495,7 +1495,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784331096: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:11 ET
+PokerStars Hand #248784331096: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:11 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (1198 in chips) 
 Seat 2: Vietcongen (4003 in chips) 
@@ -1544,7 +1544,7 @@ Seat 9: JlecHou90 (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784341809: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:39 ET
+PokerStars Hand #248784341809: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:39 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (1183 in chips) 
 Seat 2: Vietcongen (4994 in chips) 
@@ -1580,7 +1580,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784345214: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:49 ET
+PokerStars Hand #248784345214: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level V (60/120) - 2024/02/09 15:26:49 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (1108 in chips) 
 Seat 2: Vietcongen (5129 in chips) 
@@ -1628,7 +1628,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784369988: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:27:56 ET
+PokerStars Hand #248784369988: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:27:56 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (1093 in chips) 
 Seat 2: Vietcongen (5054 in chips) 
@@ -1674,7 +1674,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784384907: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:28:37 ET
+PokerStars Hand #248784384907: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:28:37 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (1073 in chips) 
 Seat 2: Vietcongen (6102 in chips) 
@@ -1725,7 +1725,7 @@ Seat 9: JlecHou90 (big blind) folded on the Flop
 
 
 
-PokerStars domain.Hand #248784413419: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:29:54 ET
+PokerStars Hand #248784413419: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:29:54 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (1053 in chips) 
 Seat 2: Vietcongen (4390 in chips) 
@@ -1765,7 +1765,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784426137: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:29 ET
+PokerStars Hand #248784426137: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:29 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (2246 in chips) 
 Seat 2: Vietcongen (3337 in chips) 
@@ -1797,7 +1797,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784434775: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:52 ET
+PokerStars Hand #248784434775: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:30:52 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2146 in chips) 
 Seat 2: Vietcongen (3497 in chips) 
@@ -1842,7 +1842,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784453413: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:31:43 ET
+PokerStars Hand #248784453413: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VI (80/160) - 2024/02/09 15:31:43 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (2126 in chips) 
 Seat 2: Vietcongen (2467 in chips) 
@@ -1890,7 +1890,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784483002: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:03 ET
+PokerStars Hand #248784483002: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:03 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (2106 in chips) 
 Seat 2: Vietcongen (2287 in chips) 
@@ -1924,7 +1924,7 @@ Seat 9: JlecHou90 (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784490803: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:24 ET
+PokerStars Hand #248784490803: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:24 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (2506 in chips) 
 Seat 2: Vietcongen (2262 in chips) 
@@ -1959,7 +1959,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784499834: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:49 ET
+PokerStars Hand #248784499834: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:33:49 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (2281 in chips) 
 Seat 2: Vietcongen (2037 in chips) 
@@ -1998,7 +1998,7 @@ Seat 9: JlecHou90 (button) showed [Kc Js] and won (2683) with a pair of Fives
 
 
 
-PokerStars domain.Hand #248784518338: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:34:39 ET
+PokerStars Hand #248784518338: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:34:39 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2156 in chips) 
 Seat 2: Vietcongen (783 in chips) 
@@ -2034,7 +2034,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784531956: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:16 ET
+PokerStars Hand #248784531956: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:16 ET
 Table '3713502695 1' 9-max Seat #2 is the button
 Seat 1: ThiagoKbelo (2556 in chips) 
 Seat 2: Vietcongen (658 in chips) 
@@ -2068,7 +2068,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784540406: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:39 ET
+PokerStars Hand #248784540406: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:35:39 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (2956 in chips) 
 Seat 2: Vietcongen (633 in chips) 
@@ -2118,7 +2118,7 @@ Seat 9: JlecHou90 (big blind) folded on the Flop
 
 
 
-PokerStars domain.Hand #248784563071: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:41 ET
+PokerStars Hand #248784563071: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:41 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (2931 in chips) 
 Seat 3: ZombiChicken (4544 in chips) 
@@ -2147,7 +2147,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784565691: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:48 ET
+PokerStars Hand #248784565691: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:36:48 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (3106 in chips) 
 Seat 3: ZombiChicken (4519 in chips) 
@@ -2176,7 +2176,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784571301: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:03 ET
+PokerStars Hand #248784571301: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:03 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2981 in chips) 
 Seat 3: ZombiChicken (4694 in chips) 
@@ -2207,7 +2207,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784584025: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:37 ET
+PokerStars Hand #248784584025: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VII (100/200) - 2024/02/09 15:37:37 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (2556 in chips) 
 Seat 3: ZombiChicken (5369 in chips) 
@@ -2235,7 +2235,7 @@ Seat 9: JlecHou90 (big blind) collected (300)
 
 
 
-PokerStars domain.Hand #248784588781: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:37:50 ET
+PokerStars Hand #248784588781: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:37:50 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (2531 in chips) 
 Seat 3: ZombiChicken (5344 in chips) 
@@ -2265,7 +2265,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784601461: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:25 ET
+PokerStars Hand #248784601461: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:25 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (2206 in chips) 
 Seat 3: ZombiChicken (5869 in chips) 
@@ -2295,7 +2295,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784610380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:49 ET
+PokerStars Hand #248784610380: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:38:49 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2581 in chips) 
 Seat 3: ZombiChicken (5544 in chips) 
@@ -2325,7 +2325,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784626288: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:39:33 ET
+PokerStars Hand #248784626288: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:39:33 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (3106 in chips) 
 Seat 3: ZombiChicken (5369 in chips) 
@@ -2353,7 +2353,7 @@ Seat 9: JlecHou90 (big blind) collected (400)
 
 
 
-PokerStars domain.Hand #248784636208: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:00 ET
+PokerStars Hand #248784636208: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:00 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (3081 in chips) 
 Seat 3: ZombiChicken (5344 in chips) 
@@ -2383,7 +2383,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784640838: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:12 ET
+PokerStars Hand #248784640838: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:12 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (2756 in chips) 
 Seat 3: ZombiChicken (5869 in chips) 
@@ -2412,7 +2412,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784646183: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:27 ET
+PokerStars Hand #248784646183: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:27 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2581 in chips) 
 Seat 3: ZombiChicken (6094 in chips) 
@@ -2441,7 +2441,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784654260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:49 ET
+PokerStars Hand #248784654260: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:40:49 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 1: ThiagoKbelo (2556 in chips) 
 Seat 3: ZombiChicken (5919 in chips) 
@@ -2471,7 +2471,7 @@ Seat 9: JlecHou90 (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784666937: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:23 ET
+PokerStars Hand #248784666937: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:23 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 1: ThiagoKbelo (2531 in chips) 
 Seat 3: ZombiChicken (6444 in chips) 
@@ -2501,7 +2501,7 @@ Seat 9: JlecHou90 (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784678947: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:57 ET
+PokerStars Hand #248784678947: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:41:57 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 1: ThiagoKbelo (2206 in chips) 
 Seat 3: ZombiChicken (6419 in chips) 
@@ -2531,7 +2531,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784686939: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:42:18 ET
+PokerStars Hand #248784686939: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level VIII (150/300) - 2024/02/09 15:42:18 ET
 Table '3713502695 1' 9-max Seat #1 is the button
 Seat 1: ThiagoKbelo (2581 in chips) 
 Seat 3: ZombiChicken (6094 in chips) 
@@ -2569,7 +2569,7 @@ Seat 9: JlecHou90 folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784698077: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:48 ET
+PokerStars Hand #248784698077: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:48 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5919 in chips) 
 Seat 5: hubble (5948 in chips) 
@@ -2593,7 +2593,7 @@ Seat 9: JlecHou90 (big blind) collected (475)
 
 
 
-PokerStars domain.Hand #248784701302: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:57 ET
+PokerStars Hand #248784701302: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:42:57 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5894 in chips) 
 Seat 5: hubble (5723 in chips) 
@@ -2618,7 +2618,7 @@ Seat 9: JlecHou90 (small blind) collected (875)
 
 
 
-PokerStars domain.Hand #248784705358: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:09 ET
+PokerStars Hand #248784705358: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:09 ET
 Table '3713502695 1' 9-max Seat #9 is the button
 Seat 3: ZombiChicken (5469 in chips) 
 Seat 5: hubble (5698 in chips) 
@@ -2644,7 +2644,7 @@ Seat 9: JlecHou90 (button) folded before Flop (didn't bet)
 
 
 
-PokerStars domain.Hand #248784709828: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:21 ET
+PokerStars Hand #248784709828: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:21 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5919 in chips) 
 Seat 5: hubble (5273 in chips) 
@@ -2670,7 +2670,7 @@ Seat 9: JlecHou90 (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784717248: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:41 ET
+PokerStars Hand #248784717248: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:43:41 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6569 in chips) 
 Seat 5: hubble (5048 in chips) 
@@ -2703,7 +2703,7 @@ Seat 9: JlecHou90 (small blind) showed [9h Ah] and lost with a pair of Jacks
 
 
 
-PokerStars domain.Hand #248784727331: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:08 ET
+PokerStars Hand #248784727331: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:08 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6144 in chips) 
 Seat 5: hubble (7356 in chips) 
@@ -2725,7 +2725,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784732060: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:22 ET
+PokerStars Hand #248784732060: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:22 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6569 in chips) 
 Seat 5: hubble (6931 in chips) 
@@ -2746,7 +2746,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784734239: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:28 ET
+PokerStars Hand #248784734239: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:28 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6794 in chips) 
 Seat 5: hubble (6706 in chips) 
@@ -2767,7 +2767,7 @@ Seat 5: hubble (big blind) collected (450)
 
 
 
-PokerStars domain.Hand #248784737118: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:36 ET
+PokerStars Hand #248784737118: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:44:36 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6569 in chips) 
 Seat 5: hubble (6931 in chips) 
@@ -2794,7 +2794,7 @@ Seat 5: hubble (button) (small blind) collected (1650)
 
 
 
-PokerStars domain.Hand #248784749286: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:08 ET
+PokerStars Hand #248784749286: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:08 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5744 in chips) 
 Seat 5: hubble (7756 in chips) 
@@ -2815,7 +2815,7 @@ Seat 5: hubble (big blind) collected (450)
 
 
 
-PokerStars domain.Hand #248784751861: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:15 ET
+PokerStars Hand #248784751861: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:15 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5519 in chips) 
 Seat 5: hubble (7981 in chips) 
@@ -2838,7 +2838,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784756786: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:29 ET
+PokerStars Hand #248784756786: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:29 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5944 in chips) 
 Seat 5: hubble (7556 in chips) 
@@ -2859,7 +2859,7 @@ Seat 5: hubble (big blind) collected (450)
 
 
 
-PokerStars domain.Hand #248784761352: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:42 ET
+PokerStars Hand #248784761352: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:45:42 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5719 in chips) 
 Seat 5: hubble (7781 in chips) 
@@ -2886,7 +2886,7 @@ Seat 5: hubble (button) (small blind) collected (1650)
 
 
 
-PokerStars domain.Hand #248784773444: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:14 ET
+PokerStars Hand #248784773444: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:14 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (4894 in chips) 
 Seat 5: hubble (8606 in chips) 
@@ -2908,7 +2908,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784780312: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:33 ET
+PokerStars Hand #248784780312: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:33 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5319 in chips) 
 Seat 5: hubble (8181 in chips) 
@@ -2929,7 +2929,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784782543: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:40 ET
+PokerStars Hand #248784782543: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:46:40 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5544 in chips) 
 Seat 5: hubble (7956 in chips) 
@@ -2952,7 +2952,7 @@ Seat 5: hubble (big blind) collected (850)
 
 
 
-PokerStars domain.Hand #248784794496: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:12 ET
+PokerStars Hand #248784794496: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:12 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5119 in chips) 
 Seat 5: hubble (8381 in chips) 
@@ -2974,7 +2974,7 @@ Seat 5: hubble (button) (small blind) collected (850)
 
 
 
-PokerStars domain.Hand #248784798404: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:23 ET
+PokerStars Hand #248784798404: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level IX (200/400) - 2024/02/09 15:47:23 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (4694 in chips) 
 Seat 5: hubble (8806 in chips) 
@@ -3002,7 +3002,7 @@ Seat 5: hubble (big blind) showed [Ac 7h] and won (4694) with a pair of Nines
 
 
 
-PokerStars domain.Hand #248784806679: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:45 ET
+PokerStars Hand #248784806679: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:45 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (4694 in chips) 
 Seat 5: hubble (8806 in chips) 
@@ -3023,7 +3023,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784808958: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:52 ET
+PokerStars Hand #248784808958: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:47:52 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5044 in chips) 
 Seat 5: hubble (8456 in chips) 
@@ -3045,7 +3045,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784814525: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:07 ET
+PokerStars Hand #248784814525: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:07 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (5694 in chips) 
 Seat 5: hubble (7806 in chips) 
@@ -3072,7 +3072,7 @@ Seat 5: hubble (button) (small blind) collected (1300)
 
 
 
-PokerStars domain.Hand #248784822824: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:30 ET
+PokerStars Hand #248784822824: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:30 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5044 in chips) 
 Seat 5: hubble (8456 in chips) 
@@ -3093,7 +3093,7 @@ Seat 5: hubble (big blind) collected (700)
 
 
 
-PokerStars domain.Hand #248784825139: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:36 ET
+PokerStars Hand #248784825139: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:36 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (4694 in chips) 
 Seat 5: hubble (8806 in chips) 
@@ -3115,7 +3115,7 @@ Seat 5: hubble (button) (small blind) collected (1300)
 
 
 
-PokerStars domain.Hand #248784829042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:47 ET
+PokerStars Hand #248784829042: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:48:47 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (4044 in chips) 
 Seat 5: hubble (9456 in chips) 
@@ -3142,7 +3142,7 @@ Seat 5: hubble (big blind) showed [Th Kd] and lost with a pair of Tens
 
 
 
-PokerStars domain.Hand #248784837578: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:10 ET
+PokerStars Hand #248784837578: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:10 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (8088 in chips) 
 Seat 5: hubble (5412 in chips) 
@@ -3169,7 +3169,7 @@ Seat 5: hubble (button) (small blind) collected (1300)
 
 
 
-PokerStars domain.Hand #248784846665: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:35 ET
+PokerStars Hand #248784846665: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:49:35 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (7438 in chips) 
 Seat 5: hubble (6062 in chips) 
@@ -3202,7 +3202,7 @@ Seat 5: hubble (big blind) collected (2600)
 
 
 
-PokerStars domain.Hand #248784861943: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:16 ET
+PokerStars Hand #248784861943: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:16 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6138 in chips) 
 Seat 5: hubble (7362 in chips) 
@@ -3223,7 +3223,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784864364: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:23 ET
+PokerStars Hand #248784864364: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:23 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6488 in chips) 
 Seat 5: hubble (7012 in chips) 
@@ -3244,7 +3244,7 @@ Seat 5: hubble (big blind) collected (700)
 
 
 
-PokerStars domain.Hand #248784870255: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:39 ET
+PokerStars Hand #248784870255: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:39 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6138 in chips) 
 Seat 5: hubble (7362 in chips) 
@@ -3266,7 +3266,7 @@ Seat 5: hubble (button) (small blind) collected (1300)
 
 
 
-PokerStars domain.Hand #248784876127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:54 ET
+PokerStars Hand #248784876127: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:50:54 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5488 in chips) 
 Seat 5: hubble (8012 in chips) 
@@ -3288,7 +3288,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784880300: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:06 ET
+PokerStars Hand #248784880300: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:06 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6138 in chips) 
 Seat 5: hubble (7362 in chips) 
@@ -3310,7 +3310,7 @@ Seat 5: hubble (button) (small blind) collected (1300)
 
 
 
-PokerStars domain.Hand #248784884845: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:18 ET
+PokerStars Hand #248784884845: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:18 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (5488 in chips) 
 Seat 5: hubble (8012 in chips) 
@@ -3332,7 +3332,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784888426: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:28 ET
+PokerStars Hand #248784888426: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:51:28 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (6138 in chips) 
 Seat 5: hubble (7362 in chips) 
@@ -3361,7 +3361,7 @@ Seat 5: hubble (button) (small blind) folded on the Turn
 
 
 
-PokerStars domain.Hand #248784902182: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:05 ET
+PokerStars Hand #248784902182: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:05 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6788 in chips) 
 Seat 5: hubble (6712 in chips) 
@@ -3383,7 +3383,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784905558: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:14 ET
+PokerStars Hand #248784905558: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:14 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (7438 in chips) 
 Seat 5: hubble (6062 in chips) 
@@ -3404,7 +3404,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784907716: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:20 ET
+PokerStars Hand #248784907716: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level X (300/600) - 2024/02/09 15:52:20 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (7788 in chips) 
 Seat 5: hubble (5712 in chips) 
@@ -3426,7 +3426,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784917283: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:46 ET
+PokerStars Hand #248784917283: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:46 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (8438 in chips) 
 Seat 5: hubble (5062 in chips) 
@@ -3448,7 +3448,7 @@ Seat 5: hubble (button) (small blind) collected (1700)
 
 
 
-PokerStars domain.Hand #248784921567: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:58 ET
+PokerStars Hand #248784921567: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:52:58 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (7588 in chips) 
 Seat 5: hubble (5912 in chips) 
@@ -3469,7 +3469,7 @@ Seat 5: hubble (big blind) collected (900)
 
 
 
-PokerStars domain.Hand #248784924138: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:05 ET
+PokerStars Hand #248784924138: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:05 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (7138 in chips) 
 Seat 5: hubble (6362 in chips) 
@@ -3490,7 +3490,7 @@ Seat 5: hubble (button) (small blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784927027: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:13 ET
+PokerStars Hand #248784927027: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:13 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (7588 in chips) 
 Seat 5: hubble (5912 in chips) 
@@ -3511,7 +3511,7 @@ Seat 5: hubble (big blind) collected (900)
 
 
 
-PokerStars domain.Hand #248784930123: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:21 ET
+PokerStars Hand #248784930123: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:21 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (7138 in chips) 
 Seat 5: hubble (6362 in chips) 
@@ -3533,7 +3533,7 @@ Seat 5: hubble (button) (small blind) collected (1700)
 
 
 
-PokerStars domain.Hand #248784934240: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:32 ET
+PokerStars Hand #248784934240: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:32 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6288 in chips) 
 Seat 5: hubble (7212 in chips) 
@@ -3555,7 +3555,7 @@ Seat 5: hubble (big blind) folded before Flop
 
 
 
-PokerStars domain.Hand #248784938941: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:45 ET
+PokerStars Hand #248784938941: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:53:45 ET
 Table '3713502695 1' 9-max Seat #5 is the button
 Seat 3: ZombiChicken (7138 in chips) 
 Seat 5: hubble (6362 in chips) 
@@ -3582,7 +3582,7 @@ Seat 5: hubble (button) (small blind) collected (1700)
 
 
 
-PokerStars domain.Hand #248784947918: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:54:09 ET
+PokerStars Hand #248784947918: Tournament #3713502695, $0.88+$0.12 USD Hold'em No Limit - Level XI (400/800) - 2024/02/09 15:54:09 ET
 Table '3713502695 1' 9-max Seat #3 is the button
 Seat 3: ZombiChicken (6288 in chips) 
 Seat 5: hubble (7212 in chips) 
