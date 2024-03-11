@@ -48,10 +48,10 @@ public class Hand {
         this.currentButton = Integer.valueOf(button);
     }
 
-    public String getChipsInBigBlind() {
+    public String getChosenPlayersChipsInBigBlind(String playerName) {
         String result = "";
         for (Player player : players) {
-            if(player.getPlayerName().equals("ZombiChicken")) {
+            if(player.getPlayerName().equals(playerName)) {
                 result = player.getChipsInBigBlind();
             }
         }

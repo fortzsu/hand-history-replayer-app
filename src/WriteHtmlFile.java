@@ -26,7 +26,7 @@ public class WriteHtmlFile {
         for (Hand hand : hands) {
             String firstImgSource = findCard(hand.getCards().get(0));
             String secondImgSource = findCard(hand.getCards().get(1));
-            String chipsInBigBlind = hand.getChipsInBigBlind();
+            String chipsInBigBlind = hand.getChosenPlayersChipsInBigBlind("ZombiChicken");
             String actualPosition = "";
             for (Player player : hand.getPlayers()) {
                 if(player.getPlayerName().equals(PLAYER_NAME)) {

@@ -19,7 +19,7 @@ public class Player {
         this.addAction(original.substring(original.indexOf(":") + 2));
     }
 
-    public void setChipCount(Double chipCount, Double bigBlind) {
+    public void setChipCount( Double bigBlind, Double chipCount) {
         this.chipCount = chipCount;
         setChipsInBigBlind(bigBlind);
     }
@@ -39,6 +39,10 @@ public class Player {
 
     public String getChipsInBigBlind() {
         return chipsInBigBlind;
+    }
+
+    public Double getChipCount() {
+        return chipCount;
     }
 
     public void setNameOfPosition(String nameOfPosition) {
