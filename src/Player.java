@@ -10,6 +10,9 @@ public class Player {
     private String chipsInBigBlind;
     private final List<String> actions = new ArrayList<>();
 
+    public Player() {
+    }
+
     public Player(Integer seatNumber, String player) {
         this.seatNumber = seatNumber;
         this.playerName = player;
@@ -24,8 +27,8 @@ public class Player {
         setChipsInBigBlind(bigBlind);
     }
 
-    public void setChipsInBigBlind(Double bigBlindFromHand) {
-        if (bigBlindFromHand != null && this.chipCount != null) {
+    private void setChipsInBigBlind(Double bigBlindFromHand) {
+        if (this.chipCount != null) {
             this.chipsInBigBlind = String.format("%.2f", this.chipCount / bigBlindFromHand);
         }
     }
@@ -36,13 +39,8 @@ public class Player {
         }
     }
 
-
     public String getChipsInBigBlind() {
         return chipsInBigBlind;
-    }
-
-    public Double getChipCount() {
-        return chipCount;
     }
 
     public void setNameOfPosition(String nameOfPosition) {
