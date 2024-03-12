@@ -3,8 +3,8 @@ import java.util.List;
 
 public class Player {
 
-    private final Integer seatNumber;
-    private final String playerName;
+    private Integer seatNumber;
+    private String playerName;
     private String nameOfPosition;
     private Double chipCount;
     private String chipsInBigBlind;
@@ -19,7 +19,7 @@ public class Player {
         this.addAction(original.substring(original.indexOf(":") + 2));
     }
 
-    public void setChipCount( Double bigBlind, Double chipCount) {
+    public void setChipCount(Double bigBlind, Double chipCount) {
         this.chipCount = chipCount;
         setChipsInBigBlind(bigBlind);
     }

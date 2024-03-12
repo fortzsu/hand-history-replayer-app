@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 public class HandMaker {
 
@@ -10,13 +9,27 @@ public class HandMaker {
         hand.setBigBlind(block.getBigBlind());
         hand.setCards(block.getCards());
         hand.setCurrentButton(block.getButtonLine());
+        List<Player> playersList = new ArrayList<>();
+        Player player;
         for (String seat : block.getSeats()) {
-            setPlayerFields(seat, hand);
+            player = setPlayerFields(seat, hand);
+            playersList.add(player);
         }
+        setPlayerActions(playersList, block.getActions());
         return hand;
     }
 
-    private static void setPlayerFields(String originalDataLines, Hand hand) {
+    private static void setPlayerActions(List<Player> playersList, List<String> actions) {
+        for (Player player : playersList) {
+            for(String action : actions) {
+                if(action.contains(player.getPlayerName())) {
+                    player.setAction(action);
+                }
+            }
+        }
+    }
+
+    private static Player setPlayerFields(String originalDataLines, Hand hand) {
         int index = originalDataLines.indexOf(":");
         String number = originalDataLines.substring(index - 1, index);
         Integer seat = Integer.parseInt(number);
@@ -24,7 +37,8 @@ public class HandMaker {
         String player = originalDataLines.substring(index + 2, playerIndex);
         String betweenParenthesis = originalDataLines.substring(originalDataLines.indexOf("("), originalDataLines.indexOf(")") + 1);
         double chipCount = Double.parseDouble(betweenParenthesis.substring(1, betweenParenthesis.indexOf(" ")));
-        hand.checkIfPlayersPositionIsTakenAndAddNew(seat, player, chipCount);
+        Player createdPlayer = hand.checkIfPlayersPositionIsTakenAndAddNew(seat, player, chipCount);
         hand.findCurrentPlayerPosition();
+        return createdPlayer;
     }
 }

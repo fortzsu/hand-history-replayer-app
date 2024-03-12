@@ -16,11 +16,12 @@ public class FileReader {
         for (Hand hand : hands) {
             System.out.println();
             System.out.println(hand.getId());
-            System.out.println(hand.getBigBlind());
+//            System.out.println(hand.getBigBlind());
             System.out.println("***********************************************");
             for (int i = 0; i < hand.getPlayers().size(); i++) {
-                System.out.println(hand.getPlayers().get(i).getChipsInBigBlind());
-                System.out.println(hand.getPlayers().get(i).getChipCount());
+//                System.out.println(hand.getPlayers().get(i).getChipsInBigBlind());
+//                System.out.println(hand.getPlayers().get(i).getChipCount());
+                System.out.println(hand.getPlayers().get(i).getPlayerName() + ": " + hand.getPlayers().get(i).getActions());
             }
         }
         return hands;

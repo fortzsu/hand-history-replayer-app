@@ -19,12 +19,13 @@ public class Hand {
         }
     }
 
-    public void checkIfPlayersPositionIsTakenAndAddNew(Integer seatNumber, String player, Double chipCount) {
+    public Player checkIfPlayersPositionIsTakenAndAddNew(Integer seatNumber, String player, Double chipCount) {
         Player tempPlayer = new Player(seatNumber, player);
         if (!this.players.contains(tempPlayer)) {
             this.players.add(tempPlayer);
         }
         tempPlayer.setChipCount(this.bigBlind, chipCount);
+        return tempPlayer;
     }
 
     public void setCards(String line) {
