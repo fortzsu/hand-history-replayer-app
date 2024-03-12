@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.List;
 
 public class WriteHtmlFile {
@@ -28,12 +29,15 @@ public class WriteHtmlFile {
             String secondImgSource = findCard(hand.getCards().get(1));
             String chipsInBigBlind = hand.getChosenPlayersChipsInBigBlind("ZombiChicken");
             String actualPosition = "";
+            List<String> actions = new ArrayList<>();
             for (Player player : hand.getPlayers()) {
-                if(player.getPlayerName().equals(PLAYER_NAME)) {
+                if (player.getPlayerName().equals(PLAYER_NAME)) {
                     actualPosition = player.getNameOfPosition();
                 }
+                if (player.getPlayerName().equals(PLAYER_NAME)) {
+                    actions.add(player.getActions().toString());
+                }
             }
-            List<String> actions = hand.getPlayers().get(0).getActions();//TODO
             writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, actions, actualPosition));
         }
     }
