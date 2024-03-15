@@ -58,7 +58,11 @@ public class Hand {
     public void setCurrentButton(String originalDataHands) {
         int index = originalDataHands.indexOf("#");
         String button = originalDataHands.substring(index + 1, index + 2);
-        this.currentButton = Integer.valueOf(button);
+        if(button.equals(" ")) {
+            this.currentButton = 0;
+        } else {
+            this.currentButton = Integer.valueOf(button);
+        }
     }
 
     public String getChosenPlayersChipsInBigBlind(String playerName) {
