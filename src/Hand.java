@@ -45,7 +45,26 @@ public class Hand {
         tempPlayer.setChipCount(this.bigBlind, chipCount);
     }
 
+    public String getChosenPlayersChipsInBigBlind(String playerName) throws NoSuchElementException {
+        String result = "";
+        for (Player player : players) {
+            if (player.getPlayerName().equals(playerName)) {
+                result = player.getChipsInBigBlind();
+            } else {
+                throw new NoSuchElementException();
+            }
+        }
+        return result;
+    }
 
+    public void setCards(String line) {
+        List<String> cards = new ArrayList<>();
+        String first = line.substring(line.length() - 6, line.length() - 4);
+        String second = line.substring(line.length() - 3, line.length() - 1);
+        cards.add(first);
+        cards.add(second);
+        this.cards = cards;
+    }
 
 
     public void fillPlayerActions() {
@@ -69,26 +88,6 @@ public class Hand {
         }
     }
 
-
-    public void setCards(String line) {
-        List<String> cards = new ArrayList<>();
-        String first = line.substring(line.length() - 6, line.length() - 4);
-        String second = line.substring(line.length() - 3, line.length() - 1);
-        cards.add(first);
-        cards.add(second);
-        this.cards = cards;
-    }
-
-
-    public String getChosenPlayersChipsInBigBlind(String playerName) {
-        String result = "";
-        for (Player player : players) {
-            if (player.getPlayerName().equals(playerName)) {
-                result = player.getChipsInBigBlind();
-            }
-        }
-        return result;
-    }
 
     public Double getBigBlind() {
         return bigBlind;

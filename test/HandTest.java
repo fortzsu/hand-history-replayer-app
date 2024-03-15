@@ -1,9 +1,31 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import java.util.NoSuchElementException;
+
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class HandTest {
+
+    @Test
+    public void getChosenPlayersChipsInBigBlind_success() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "First_Player", 1500.0);
+        Assertions.assertEquals("7,50", hand.getChosenPlayersChipsInBigBlind("First_Player"));
+    }
+
+
+    @Test
+    public void getChosenPlayersChipsInBigBlind_NoSuchPlayer_failure() {
+        assertThrows(NoSuchElementException.class,
+                () -> {
+                    Hand hand = new Hand();
+                    hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+                    hand.addNewPlayer(1, "First_Player", 1500.0);
+                    hand.getChosenPlayersChipsInBigBlind("Second_Player");
+                });
+    }
 
     @Test
     public void addNewPlayer_success() {
