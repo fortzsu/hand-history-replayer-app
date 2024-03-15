@@ -7,8 +7,25 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class HandTest {
 
+
+
     @Test
-    public void getChosenPlayersChipsInBigBlind_success() {
+    public void testAddCards_testFirstCard_success() {
+        Hand hand = new Hand();
+        hand.setCards("Dealt to ZombiChicken [Kc Kh]");
+        Assertions.assertEquals("Kc", hand.getCards().get(0));
+    }
+
+    @Test
+    public void testAddCards_testSecondCard_success() {
+        Hand hand = new Hand();
+        hand.setCards("Dealt to ZombiChicken [Kc Kh]");
+        Assertions.assertEquals("Kh", hand.getCards().get(1));
+    }
+
+
+    @Test
+    public void testGetChosenPlayersChipsInBigBlind_success() {
         Hand hand = new Hand();
         hand.setBigBlind("ThiagoKbelo: posts big blind 200");
         hand.addNewPlayer(1, "First_Player", 1500.0);
@@ -17,7 +34,7 @@ public class HandTest {
 
 
     @Test
-    public void getChosenPlayersChipsInBigBlind_NoSuchPlayer_failure() {
+    public void testGetChosenPlayersChipsInBigBlind_NoSuchPlayer_failure() {
         assertThrows(NoSuchElementException.class,
                 () -> {
                     Hand hand = new Hand();

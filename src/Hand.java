@@ -3,7 +3,7 @@ import java.util.*;
 public class Hand {
 
     private Integer id;
-    private List<String> cards;
+    private final List<String> cards = new ArrayList<>();
     private Double bigBlind;
     private final List<Player> players = new ArrayList<>();
     private Integer currentButton;
@@ -58,14 +58,9 @@ public class Hand {
     }
 
     public void setCards(String line) {
-        List<String> cards = new ArrayList<>();
-        String first = line.substring(line.length() - 6, line.length() - 4);
-        String second = line.substring(line.length() - 3, line.length() - 1);
-        cards.add(first);
-        cards.add(second);
-        this.cards = cards;
+        this.cards.add(line.substring(line.length() - 6, line.length() - 4));
+        this.cards.add(line.substring(line.length() - 3, line.length() - 1));
     }
-
 
     public void fillPlayerActions() {
         for (Player player : this.players) {
