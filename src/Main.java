@@ -7,8 +7,8 @@ public class Main {
         try {
             List<Hand> selectedLines = FileReader.readFromFile();
             WriteHtmlFile.printIntoHtml(selectedLines);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        } catch (IOException | NumberFormatException e) {
+            e.printStackTrace();
         }
     }
 }

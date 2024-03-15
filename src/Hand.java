@@ -10,6 +10,38 @@ public class Hand {
     private final List<String> defaultPositions = new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
     private final Map<String, List<String>> allPlayerActions = new HashMap<>();
 
+    public void setCurrentButton(String originalDataHands) throws NumberFormatException{
+        int index = originalDataHands.indexOf("#");
+        String button = originalDataHands.substring(index + 1, index + 2);
+        this.currentButton = Integer.valueOf(button);
+    }
+
+    public void setBigBlind(String line) throws NumberFormatException{
+        List<String> lineString = List.of(line.split(" "));
+        String value = lineString.get(lineString.size() - 1);
+        this.bigBlind = Double.parseDouble(value);
+    }
+
+    public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount) {
+        Player tempPlayer = new Player(seatNumber, playerName);
+        if (checkIfPlayersPositionIsTaken(tempPlayer)) {
+            this.players.add(tempPlayer);
+            setChipCount(tempPlayer, chipCount);
+        }
+        return tempPlayer;
+    }
+
+
+
+
+    private void setChipCount(Player tempPlayer, Double chipCount) {
+        tempPlayer.setChipCount(this.bigBlind, chipCount);
+    }
+
+    private boolean checkIfPlayersPositionIsTaken(Player tempPlayer) {
+        return !this.players.contains(tempPlayer);
+    }
+
     public void fillPlayerActions() {
         for (Player player : this.players) {
             if (!player.getPlayerName().equals("ZombiChicken")) {
@@ -31,14 +63,6 @@ public class Hand {
         }
     }
 
-    public Player checkIfPlayersPositionIsTakenAndAddNew(Integer seatNumber, String player, Double chipCount) {
-        Player tempPlayer = new Player(seatNumber, player);
-        if (!this.players.contains(tempPlayer)) {
-            this.players.add(tempPlayer);
-        }
-        tempPlayer.setChipCount(this.bigBlind, chipCount);
-        return tempPlayer;
-    }
 
     public void setCards(String line) {
         List<String> cards = new ArrayList<>();
@@ -49,21 +73,6 @@ public class Hand {
         this.cards = cards;
     }
 
-    public void setBigBlind(String line) {
-        List<String> lineString = List.of(line.split(" "));
-        String value = lineString.get(lineString.size() - 1);
-        this.bigBlind = Double.parseDouble(value);
-    }
-
-    public void setCurrentButton(String originalDataHands) {
-        int index = originalDataHands.indexOf("#");
-        String button = originalDataHands.substring(index + 1, index + 2);
-        if(button.equals(" ")) {
-            this.currentButton = 0;
-        } else {
-            this.currentButton = Integer.valueOf(button);
-        }
-    }
 
     public String getChosenPlayersChipsInBigBlind(String playerName) {
         String result = "";
