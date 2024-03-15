@@ -21,6 +21,11 @@ public class Player {
     public void setAction(String original) {
         this.addAction(original.substring(original.indexOf(":") + 2));
     }
+    private void addAction(String action) {
+        if (!action.equals("posts the ante 3")) {
+            this.actions.add(action);
+        }
+    }
 
     public void setChipCount(Double bigBlind, Double chipCount) {
         this.chipCount = chipCount;
@@ -33,11 +38,7 @@ public class Player {
         }
     }
 
-    private void addAction(String action) {
-        if (!action.equals("posts the ante 3")) {
-            this.actions.add(action);
-        }
-    }
+
 
     public String getChipsInBigBlind() {
         return chipsInBigBlind;

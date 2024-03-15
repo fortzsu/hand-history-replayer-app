@@ -7,8 +7,8 @@ public class PlayerTest {
 
     @Test
     public void testPlayerActionsSetter() {
-        String originalAction = "Fayemouse: folds ";
         Player player = new Player();
+        String originalAction = "Fayemouse: folds ";
         player.setAction(originalAction);
         Assertions.assertEquals("folds ", player.getActions().get(0));
     }

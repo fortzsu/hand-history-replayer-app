@@ -7,6 +7,25 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class HandTest {
 
+    @Test
+    public void testFillPlayerActions_whenPlayerIsFirst_success() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "ZombiChicken", 1500.0).setAction("ZombiChicken: raises 400 to 600");
+        hand.addNewPlayer(2, "hubble", 1500.0).setAction("hubble: folds ");
+        hand.fillPlayerActions();
+        Assertions.assertEquals(1, hand.getAllPlayerActions().size());
+    }
+
+    @Test
+    public void testFillPlayerActions_whenPlayerIsSecond_success() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "hubble", 1500.0).setAction("hubble: folds ");
+        hand.addNewPlayer(2, "ZombiChicken", 1500.0).setAction("ZombiChicken: raises 400 to 600");
+        hand.fillPlayerActions();
+        Assertions.assertEquals(2, hand.getAllPlayerActions().size());
+    }
 
 
     @Test

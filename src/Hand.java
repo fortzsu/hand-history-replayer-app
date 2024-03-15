@@ -73,6 +73,10 @@ public class Hand {
         }
     }
 
+
+
+
+
     public void findCurrentPlayerPosition() {
         addPlayerHisPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
     }
