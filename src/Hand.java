@@ -8,8 +8,20 @@ public class Hand {
     private final List<Player> players = new ArrayList<>();
     private Integer currentButton;
     private final List<String> defaultPositions = new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
+    private final Map<String, List<String>> allPlayerActions = new HashMap<>();
 
-    public void findCurrentPlayerPosition(){
+    public void fillPlayerActions() {
+        for (Player player : this.players) {
+            if (!player.getPlayerName().equals("ZombiChicken")) {
+                this.allPlayerActions.put(player.getPlayerName(), player.getActions());
+            } else {
+                this.allPlayerActions.put(player.getPlayerName(), player.getActions());
+                break;
+            }
+        }
+    }
+
+    public void findCurrentPlayerPosition() {
         addPlayerHisPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
     }
 
@@ -52,7 +64,7 @@ public class Hand {
     public String getChosenPlayersChipsInBigBlind(String playerName) {
         String result = "";
         for (Player player : players) {
-            if(player.getPlayerName().equals(playerName)) {
+            if (player.getPlayerName().equals(playerName)) {
                 result = player.getChipsInBigBlind();
             }
         }
@@ -78,6 +90,7 @@ public class Hand {
     public Integer getCurrentButton() {
         return currentButton;
     }
+
     public List<Player> getPlayers() {
         return players;
     }
@@ -86,5 +99,7 @@ public class Hand {
         return defaultPositions;
     }
 
-
+    public Map<String, List<String>> getAllPlayerActions() {
+        return allPlayerActions;
+    }
 }

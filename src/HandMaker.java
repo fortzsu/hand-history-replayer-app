@@ -16,6 +16,7 @@ public class HandMaker {
             playersList.add(player);
         }
         setPlayerActions(playersList, block.getActions());
+        hand.fillPlayerActions();
         return hand;
     }
 

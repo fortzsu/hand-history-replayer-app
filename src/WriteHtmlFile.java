@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class WriteHtmlFile {
 
@@ -30,12 +31,12 @@ public class WriteHtmlFile {
             String chipsInBigBlind = hand.getChosenPlayersChipsInBigBlind("ZombiChicken");
             String actualPosition = "";
             List<String> actions = new ArrayList<>();
+            for (Map.Entry<String, List<String>> entry : hand.getAllPlayerActions().entrySet()) {
+                actions.add(entry.getValue().toString());
+            }
             for (Player player : hand.getPlayers()) {
                 if (player.getPlayerName().equals(PLAYER_NAME)) {
                     actualPosition = player.getNameOfPosition();
-                }
-                if (player.getPlayerName().equals(PLAYER_NAME)) {
-                    actions.add(player.getActions().toString());
                 }
             }
             writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, actions, actualPosition));
