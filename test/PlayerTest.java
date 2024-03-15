@@ -28,6 +28,13 @@ public class PlayerTest {
     }
 
     @Test
+    public void testSetChipsInBigBlind_withChip_testFormatting_ok() {
+        Player player = new Player();
+        player.setChipCount(965.0, 215.0);
+        Assertions.assertEquals("0,22", player.getChipsInBigBlind());
+    }
+
+    @Test
     public void testAddActions_ok() {
         String originalAction_one = "Fayemouse: folds ";
         String originalAction_two = "Fayemouse: posts the ante 3";
@@ -37,9 +44,4 @@ public class PlayerTest {
         Assertions.assertEquals(1, player.getActions().size());
     }
 
-    @Test
-    public void testSetChipsAndBigBlind_ok() {
-        Player player = new Player();
-        player.setChipCount(5.0, 10.00);
-    }
 }
