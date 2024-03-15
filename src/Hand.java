@@ -10,19 +10,19 @@ public class Hand {
     private final List<String> defaultPositions = new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
     private final Map<String, List<String>> allPlayerActions = new HashMap<>();
 
-    public void setCurrentButton(String originalDataHands) throws NumberFormatException{
+    public void setCurrentButton(String originalDataHands) throws NumberFormatException {
         int index = originalDataHands.indexOf("#");
         String button = originalDataHands.substring(index + 1, index + 2);
         this.currentButton = Integer.valueOf(button);
     }
 
-    public void setBigBlind(String line) throws NumberFormatException{
+    public void setBigBlind(String line) throws NumberFormatException {
         List<String> lineString = List.of(line.split(" "));
         String value = lineString.get(lineString.size() - 1);
         this.bigBlind = Double.parseDouble(value);
     }
 
-    public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount){
+    public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount) {
         Player tempPlayer = null;
         if (checkIfPlayersPositionIsTaken(seatNumber)) {
             tempPlayer = new Player(seatNumber, playerName);
@@ -75,13 +75,11 @@ public class Hand {
 
 
 
-
-
     public void findCurrentPlayerPosition() {
-        addPlayerHisPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
+        addPlayerPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
     }
 
-    private void addPlayerHisPosition(Map<Integer, String> orderOfCurrentPositions) {
+    private void addPlayerPosition(Map<Integer, String> orderOfCurrentPositions) {
         for (Player player : players) {
             player.setNameOfPosition(orderOfCurrentPositions.get(player.getSeatNumber()));
         }
