@@ -22,25 +22,31 @@ public class Hand {
         this.bigBlind = Double.parseDouble(value);
     }
 
-    public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount) {
-        Player tempPlayer = new Player(seatNumber, playerName);
-        if (checkIfPlayersPositionIsTaken(tempPlayer)) {
+    public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount){
+        Player tempPlayer = null;
+        if (checkIfPlayersPositionIsTaken(seatNumber)) {
+            tempPlayer = new Player(seatNumber, playerName);
             this.players.add(tempPlayer);
             setChipCount(tempPlayer, chipCount);
         }
         return tempPlayer;
     }
 
-
-
+    private boolean checkIfPlayersPositionIsTaken(Integer seatNumber) {
+        for (Player player : this.players) {
+            if (player.getSeatNumber().equals(seatNumber)) {
+                return false;
+            }
+        }
+        return true;
+    }
 
     private void setChipCount(Player tempPlayer, Double chipCount) {
         tempPlayer.setChipCount(this.bigBlind, chipCount);
     }
 
-    private boolean checkIfPlayersPositionIsTaken(Player tempPlayer) {
-        return !this.players.contains(tempPlayer);
-    }
+
+
 
     public void fillPlayerActions() {
         for (Player player : this.players) {

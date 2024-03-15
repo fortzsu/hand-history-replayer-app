@@ -7,17 +7,42 @@ public class HandTest {
 
     @Test
     public void addNewPlayer_success() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        Assertions.assertNotNull(hand.addNewPlayer(1, "First_Player", 1500.0));
+    }
 
+    @Test
+    public void addNewPlayer_withTwoPlayers_success() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "First_Player", 1500.0);
+        hand.addNewPlayer(2, "Second_Player", 1500.0);
+        Assertions.assertEquals(2, hand.getPlayers().size());
     }
 
     @Test
     public void addNewPlayer_addedAgain_returnsNull() {
-
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "First_Player", 1500.0);
+        Assertions.assertNull(hand.addNewPlayer(1, "First_Player", 1500.0));
     }
 
     @Test
-    public void addNewPlayer_success_testChipCount() {
+    public void addNewPlayer_success_testBigBlind() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "First_Player", 1500.0);
+        Assertions.assertEquals(200, hand.getBigBlind());
+    }
 
+    @Test
+    public void addNewPlayer_success_testPlayers_Chips() {
+        Hand hand = new Hand();
+        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
+        hand.addNewPlayer(1, "First_Player", 1500.0);
+        Assertions.assertEquals("7,50", hand.getPlayers().get(0).getChipsInBigBlind());
     }
 
     @Test
