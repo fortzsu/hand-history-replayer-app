@@ -6,7 +6,11 @@ img {
 .holder-div {
     width: 1300px;
     height: 200px;
-    padding: 50px;
+    padding: 5%;
     border: 5px solid blue;
     margin: 20px;
+}
+
+.player-action {
+    font-weight: bold;
 }

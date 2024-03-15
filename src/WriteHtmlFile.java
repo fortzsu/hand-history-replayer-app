@@ -28,29 +28,36 @@ public class WriteHtmlFile {
         for (Hand hand : hands) {
             String firstImgSource = findCard(hand.getCards().get(0));
             String secondImgSource = findCard(hand.getCards().get(1));
-            String chipsInBigBlind = hand.getChosenPlayersChipsInBigBlind("ZombiChicken");
+            String chipsInBigBlind = hand.getChosenPlayersChipsInBigBlind(PLAYER_NAME);
             String actualPosition = "";
+            String playerAction = "";
             List<String> actions = new ArrayList<>();
             for (Map.Entry<String, List<String>> entry : hand.getAllPlayerActions().entrySet()) {
-                actions.add(entry.getValue().toString());
+                actions.addAll(entry.getValue());
             }
             for (Player player : hand.getPlayers()) {
                 if (player.getPlayerName().equals(PLAYER_NAME)) {
                     actualPosition = player.getNameOfPosition();
+                    for (String action : player.getActions()) {
+                        playerAction = player.getPlayerName() + ": " + action;
+                    }
                 }
             }
-            writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, actions, actualPosition));
+            writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, playerAction, actions, actualPosition));
         }
     }
 
 
     public static String fillHTMLData(String firstImgSource,
-                                      String secondImgSource, String chipsInBigBlind, List<String> actions,
-                                      String actualPosition) {
+                                      String secondImgSource, String chipsInBigBlind, String playerAction,
+                                      List<String> actions, String actualPosition) {
         return "<div class=\"holder-div\">" +
                 "<div>" + chipsInBigBlind + " </div>" +
                 "<img src=" + firstImgSource + ">" +
                 "<img src=" + secondImgSource + ">" +
+                "<br>" +
+                "<span class=\"player-action\">" + playerAction + " </span>" +
+                "<br>" +
                 "<span>" + addActions(actions) + " </span>" +
                 "<div>" + actualPosition + " </div>"
                 + " </div>";
