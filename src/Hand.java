@@ -50,8 +50,6 @@ public class Hand {
         for (Player player : players) {
             if (player.getPlayerName().equals(playerName)) {
                 result = player.getChipsInBigBlind();
-            } else {
-                throw new NoSuchElementException();
             }
         }
         return result;
@@ -72,7 +70,6 @@ public class Hand {
             }
         }
     }
-
 
 
     public void findCurrentPlayerPosition() {

@@ -21,7 +21,7 @@ public class PositionGenerator {
                                                            List<String> defaultPositions, List<Player> players) {
         List<Integer> current = fillCurrentPlayersList(players);
         int currentButtonIndex = current.indexOf(currentButton);
-        int defaultButtonIndex = 5;
+        int defaultButtonIndex = 6;
         for (int i = 0, j = defaultButtonIndex, k = currentButtonIndex; i < current.size(); i++) {
             k++;
             if (k == current.size()) {
