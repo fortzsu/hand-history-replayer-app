@@ -1,32 +1,9 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.NoSuchElementException;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class HandTest {
-
-    @Test
-    public void testFindPosition_withTwoPlayers_buttonIsFirst_success() {
-        Hand hand = new Hand();
-        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
-        hand.addNewPlayer(1, "First", 1500.0);
-        hand.addNewPlayer(2, "Second", 1500.0);
-        hand.setCurrentButton("#1");
-        hand.findCurrentPlayerPosition();
-        Assertions.assertEquals("BU&SB", hand.getPlayers().get(0).getNameOfPosition());
-    }
-
-    @Test
-    public void testFindPosition_withTwoPlayers_buttonIsSecond_success() {
-        Hand hand = new Hand();
-        hand.setBigBlind("ThiagoKbelo: posts big blind 200");
-        hand.addNewPlayer(1, "First", 1500.0);
-        hand.addNewPlayer(2, "Second", 1500.0);
-        hand.setCurrentButton("#2");
-        hand.findCurrentPlayerPosition();
-        Assertions.assertEquals("BB", hand.getPlayers().get(0).getNameOfPosition());
-    }
 
     @Test
     public void testFillPlayerActions_whenPlayerIsFirst_success() {

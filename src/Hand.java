@@ -7,7 +7,8 @@ public class Hand {
     private Double bigBlind;
     private final List<Player> players = new ArrayList<>();
     private Integer currentButton;
-    private final List<String> defaultPositions = new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
+    private final List<String> defaultPositions =
+            new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
     private final Map<String, List<String>> allPlayerActions = new HashMap<>();
 
     public void setCurrentButton(String originalDataHands) throws NumberFormatException {
