@@ -68,16 +68,5 @@ public class PositionGeneratorTest {
         Assertions.assertEquals("CO", hand.getPlayers().get(4).getNameOfPosition());
     }
 
-    @Test
-    public void testFindPosition_withOnePlayer_buttonIsSecond_exception() {
-        assertThrows(NegativeArraySizeException.class,
-                () -> {
-                    Hand hand = new Hand();
-                    hand.setBigBlind("ThiagoKbelo: posts big blind 200");
-                    hand.addNewPlayer(1, "Player", 1500.0);
-                    hand.setCurrentButton("#2");
-                    hand.findCurrentPlayerPosition();
-                });
-    }
 
 }

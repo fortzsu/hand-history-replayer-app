@@ -32,14 +32,11 @@ public class Player {
         setChipsInBigBlind(bigBlind);
     }
 
-    private void setChipsInBigBlind(Double bigBlindFromHand) {
+    public void setChipsInBigBlind(Double bigBlindFromHand) {
         if (this.chipCount != null) {
             this.chipsInBigBlind = String.format("%.2f", this.chipCount / bigBlindFromHand);
         }
     }
-
-
-
     public String getChipsInBigBlind() {
         return chipsInBigBlind;
     }

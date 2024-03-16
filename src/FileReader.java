@@ -14,10 +14,15 @@ public class FileReader {
         List<String> lines = Files.readAllLines(path);
         List<Hand> hands = findOriginalDataBlocks(lines);
         for (Hand hand : hands) {
-            System.out.println();
+            System.out.println("************************");
             System.out.println(hand.getId());
-            System.out.println("***********************************************");
+            System.out.println(hand.getBigBlind());
+            System.out.println(hand.getCurrentButton());
+            System.out.println(hand.getCards());
+            System.out.println(hand.getPlayers().size());
+            System.out.println(hand.getChosenPlayersChipsInBigBlind("ZombiChicken"));
             System.out.println(hand.getAllPlayerActions());
+            System.out.println("************************");
         }
         return hands;
     }
@@ -26,35 +31,26 @@ public class FileReader {
         Map<Integer, List<String>> originalDataBlocks = new HashMap<>();
         int counter = 0;
         for (String line : lines) {
-            List<String> blocks = new ArrayList<>();
+            List<String> blockLines = new ArrayList<>();
             if (line.contains("PokerStars Hand")) {
                 counter++;
-                blocks.add(line);
-                originalDataBlocks.put(counter, blocks);
+                blockLines.add(line);
+                originalDataBlocks.put(counter, blockLines);
             } else {
                 originalDataBlocks.get(counter).add(line);
             }
         }
-
-        return findHandsOfBlocks(turnDataLinesIntoBlocks(originalDataBlocks));
+        return fillHands(originalDataBlocks);
     }
 
-    private static List<Hand> findHandsOfBlocks(List<Block> blocks) {
+    private static List<Hand> fillHands(Map<Integer, List<String>> originalDataBlocks){
         List<Hand> hands = new ArrayList<>();
-        for (Block block : blocks) {
-            hands.add(block.getHand());
+        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
+            hands.add(HandMaker.fillHands(entry.getKey(), entry.getValue()));
         }
         return hands;
     }
 
-    private static List<Block> turnDataLinesIntoBlocks(Map<Integer, List<String>> originalDataBlocks) {
-        List<Block> blocks = new ArrayList<>();
-        for (Map.Entry<Integer, List<String>> entry : originalDataBlocks.entrySet()) {
-            Block tempBlock = LineCutter.findNeededLines(entry.getKey(), entry.getValue());
-            blocks.add(tempBlock);
-        }
-        return blocks;
-    }
 
 
 }
