@@ -53,14 +53,14 @@ public class WriteHtmlFile {
                                       List<String> actions, String actualPosition) {
         return "<div class=\"holder-div\">" +
                 "<div>" + chipsInBigBlind + " </div>" +
+                "<div>" + actualPosition + " </div>" +
                 "<img src=" + firstImgSource + ">" +
                 "<img src=" + secondImgSource + ">" +
                 "<br>" +
-                "<span class=\"player-action\">" + playerAction + " </span>" +
-                "<br>" +
                 "<span>" + addActions(actions) + " </span>" +
-                "<div>" + actualPosition + " </div>"
-                + " </div>";
+                "<br>" +
+                "<span class=\"player-action\">" + playerAction + " </span>" +
+                " </div>";
     }
 
     private static String addActions(List<String> actions) {
