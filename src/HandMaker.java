@@ -21,6 +21,8 @@ public class HandMaker {
         }
         List<Player> playersList = fillPlayers(originalLines, hand);
         setPlayerActions(playersList, findActions(originalLines.indexOf(cards) + 1, originalLines));
+        hand.findCurrentPlayerPosition();
+        hand.fillPlayerActions();
         return hand;
     }
 
@@ -62,10 +64,7 @@ public class HandMaker {
         String player = originalDataLines.substring(index + 2, playerIndex);
         String betweenParenthesis = originalDataLines.substring(originalDataLines.indexOf("("), originalDataLines.indexOf(")") + 1);
         double chipCount = Double.parseDouble(betweenParenthesis.substring(1, betweenParenthesis.indexOf(" ")));
-        Player createdPlayer = hand.addNewPlayer(seat, player, chipCount);
-        hand.findCurrentPlayerPosition();
-        hand.fillPlayerActions();
-        return createdPlayer;
+        return hand.addNewPlayer(seat, player, chipCount);
     }
 
 }

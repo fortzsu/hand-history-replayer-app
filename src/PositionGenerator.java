@@ -18,7 +18,7 @@ public class PositionGenerator {
 
 
     private static void addPositionWhenThereAreMorePlayers(Map<Integer, String> orderOfCurrentPositions, Integer currentButton,
-                                                           List<String> defaultPositions, List<Player> players) {
+                                                           List<String> defaultPositions, List<Player> players) throws NegativeArraySizeException{
         List<Integer> current = fillCurrentPlayersList(players);
         int currentButtonIndex = current.indexOf(currentButton);
         int defaultButtonIndex = 6;
@@ -34,6 +34,8 @@ public class PositionGenerator {
                 }
                 orderOfCurrentPositions.put(current.get(k), defaultPositions.get(j));
             }
+        } else {
+            throw new NegativeArraySizeException();
         }
     }
 

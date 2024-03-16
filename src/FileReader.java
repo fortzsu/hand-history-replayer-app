@@ -14,15 +14,15 @@ public class FileReader {
         List<String> lines = Files.readAllLines(path);
         List<Hand> hands = findOriginalDataBlocks(lines);
         for (Hand hand : hands) {
-            System.out.println("************************");
-            System.out.println(hand.getId());
-            System.out.println(hand.getBigBlind());
-            System.out.println(hand.getCurrentButton());
-            System.out.println(hand.getCards());
-            System.out.println(hand.getPlayers().size());
-            System.out.println(hand.getChosenPlayersChipsInBigBlind("ZombiChicken"));
-            System.out.println(hand.getAllPlayerActions());
-            System.out.println("************************");
+//            System.out.println("************************");
+//            System.out.println(hand.getId());
+//            System.out.println(hand.getBigBlind());
+//            System.out.println(hand.getCurrentButton());
+//            System.out.println(hand.getCards());
+//            System.out.println(hand.getPlayers().size());
+//            System.out.println(hand.getChosenPlayersChipsInBigBlind("ZombiChicken"));
+//            System.out.println(hand.getAllPlayerActions());
+//            System.out.println("************************");
         }
         return hands;
     }
