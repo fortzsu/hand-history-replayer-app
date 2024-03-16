@@ -10,9 +10,8 @@ public class HandMaker {
         hand.setCards(block.getCards());
         hand.setCurrentButton(block.getButtonLine());
         List<Player> playersList = new ArrayList<>();
-        Player player;
         for (String seat : block.getSeats()) {
-            player = setPlayerFields(seat, hand);
+            Player player = setPlayerFields(seat, hand);
             playersList.add(player);
         }
         setPlayerActions(playersList, block.getActions());
@@ -30,6 +29,7 @@ public class HandMaker {
     }
 
     private static Player setPlayerFields(String originalDataLines, Hand hand) {
+        System.out.println(originalDataLines);
         int index = originalDataLines.indexOf(":");
         String number = originalDataLines.substring(index - 1, index);
         Integer seat = Integer.parseInt(number);

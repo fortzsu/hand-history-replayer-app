@@ -17,7 +17,7 @@ public class Block {
         return hand;
     }
 
-    public void setHand() {
+    private void setHand() {
         this.hand = HandMaker.makeHandFromBlock(this);
     }
 
@@ -39,6 +39,7 @@ public class Block {
 
     public void addActionClosure(String actionClosureLine) {
         actionClosure.add(actionClosureLine);
+        setHand();
     }
 
 

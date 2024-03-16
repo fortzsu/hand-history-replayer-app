@@ -25,7 +25,6 @@ public class LineCutter {
         }
         findActions(originalLines.indexOf(block.getCards()) + 1, originalLines, block);
         findActionClosures(originalLines.indexOf(uncalledLine), originalLines, block);
-        block.setHand();
         return block;
     }
 
