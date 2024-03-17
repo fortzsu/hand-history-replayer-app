@@ -32,13 +32,15 @@ public class WriteHtmlFile {
             String actualPosition = "";
             String playerAction = "";
             List<String> actions = new ArrayList<>();
-            for (Map.Entry<String, String> entry : hand.getAllPlayerActions().entrySet()) {
-                if(entry.getKey().equals(PLAYER_NAME)) {
-                    actions.add(entry.getValue());
-                    playerAction = entry.getKey() + ": " + entry.getValue();
-                    break;
-                } else {
-                    actions.add(entry.getValue());
+            for (Map.Entry<Map<Integer, String>, String> entry : hand.getAllPlayerActions().entrySet()) {
+                for (Map.Entry<Integer, String> stringEntry : entry.getKey().entrySet()) {
+                    if (stringEntry.getValue().equals(PLAYER_NAME)) {
+                        actions.add(entry.getValue());
+                        playerAction = stringEntry.getValue() + ": " + entry.getValue();
+                        break;
+                    } else {
+                        actions.add(entry.getValue());
+                    }
                 }
             }
             for (Player player : hand.getPlayers()) {

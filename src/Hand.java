@@ -9,18 +9,19 @@ public class Hand {
     private Integer currentButton;
     private final List<String> defaultPositions =
             new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
-    private final Map<String, String> allPlayerActions = new TreeMap<>();
+
+    private final Map<Map<Integer, String>, String> allPlayerActions = new LinkedHashMap<>();
+    private Integer actionCounter = 1;
 
     public void addPlayerActions(String originalLineOfAction) {
         int splitIndex = originalLineOfAction.indexOf(':');
         if (splitIndex > -1) {
             String name = originalLineOfAction.substring(0, splitIndex);
             String action = originalLineOfAction.substring(splitIndex + 2);
-            if (allPlayerActions.containsKey(name)) {
-                this.allPlayerActions.put(name + "_", action);
-            } else {
-                this.allPlayerActions.put(name, action);
-            }
+            Map<Integer, String> tempMap = new TreeMap<>();
+            tempMap.put(actionCounter, name);
+            this.allPlayerActions.put(tempMap, action);
+            actionCounter++;
         }
     }
 
@@ -113,7 +114,8 @@ public class Hand {
         return defaultPositions;
     }
 
-    public Map<String, String> getAllPlayerActions() {
+    public Map<Map<Integer, String>, String> getAllPlayerActions() {
         return allPlayerActions;
     }
+
 }
