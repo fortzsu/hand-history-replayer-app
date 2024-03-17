@@ -8,7 +8,6 @@ public class Player {
     private String nameOfPosition;
     private Double chipCount;
     private String chipsInBigBlind;
-    private final List<String> actions = new ArrayList<>();
 
     public Player() {
     }
@@ -16,15 +15,6 @@ public class Player {
     public Player(Integer seatNumber, String player) {
         this.seatNumber = seatNumber;
         this.playerName = player;
-    }
-
-    public void setAction(String original) {
-        this.addAction(original.substring(original.indexOf(":") + 2));
-    }
-    private void addAction(String action) {
-        if (!action.equals("posts the ante 3")) {
-            this.actions.add(action);
-        }
     }
 
     public void setChipCount(Double bigBlind, Double chipCount) {
@@ -57,9 +47,6 @@ public class Player {
         return nameOfPosition;
     }
 
-    public List<String> getActions() {
-        return actions;
-    }
 
     @Override
     public boolean equals(Object o) {

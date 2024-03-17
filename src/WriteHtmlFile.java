@@ -33,14 +33,17 @@ public class WriteHtmlFile {
             String playerAction = "";
             List<String> actions = new ArrayList<>();
             for (Map.Entry<String, String> entry : hand.getAllPlayerActions().entrySet()) {
-                actions.add(entry.getValue());
+                if(entry.getKey().equals(PLAYER_NAME)) {
+                    actions.add(entry.getValue());
+                    playerAction = entry.getKey() + ": " + entry.getValue();
+                    break;
+                } else {
+                    actions.add(entry.getValue());
+                }
             }
             for (Player player : hand.getPlayers()) {
                 if (player.getPlayerName().equals(PLAYER_NAME)) {
                     actualPosition = player.getNameOfPosition();
-                    for (String action : player.getActions()) {
-                        playerAction = player.getPlayerName() + ": " + action;
-                    }
                 }
             }
             writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, playerAction, actions, actualPosition));

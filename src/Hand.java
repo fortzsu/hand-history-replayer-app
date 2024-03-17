@@ -9,7 +9,20 @@ public class Hand {
     private Integer currentButton;
     private final List<String> defaultPositions =
             new ArrayList<>(Arrays.asList("EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BU", "SB", "BB"));
-    private final Map<String, String> allPlayerActions = new HashMap<>();
+    private final Map<String, String> allPlayerActions = new TreeMap<>();
+
+    public void addPlayerActions(String originalLineOfAction) {
+        int splitIndex = originalLineOfAction.indexOf(':');
+        if (splitIndex > -1) {
+            String name = originalLineOfAction.substring(0, splitIndex);
+            String action = originalLineOfAction.substring(splitIndex + 2);
+            if (allPlayerActions.containsKey(name)) {
+                this.allPlayerActions.put(name + "_", action);
+            } else {
+                this.allPlayerActions.put(name, action);
+            }
+        }
+    }
 
     public void setCurrentButton(String originalDataHands) throws NumberFormatException {
         int index = originalDataHands.indexOf("#");
@@ -60,25 +73,6 @@ public class Hand {
         this.cards.add(line.substring(line.length() - 6, line.length() - 4));
         this.cards.add(line.substring(line.length() - 3, line.length() - 1));
     }
-
-//    public void fillPlayerActions() {
-//        for (Player player : this.players) {
-//            if (!player.getPlayerName().equals("ZombiChicken")) {
-//                this.allPlayerActions.put(player.getPlayerName(), player.getActions());
-//            } else {
-//                this.allPlayerActions.put(player.getPlayerName(), player.getActions());
-//                break;
-//            }
-//        }
-//    }
-
-    public void fillPlayerActions(String playerName, String original) {
-        String action = original.substring(original.indexOf(":") + 2);
-        if (!action.equals("posts the ante 3")) {
-            this.allPlayerActions.put(playerName, action);
-        }
-    }
-
 
     public void findCurrentPlayerPosition() {
         addPlayerPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
