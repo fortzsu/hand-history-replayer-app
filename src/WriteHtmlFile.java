@@ -32,8 +32,8 @@ public class WriteHtmlFile {
             String actualPosition = "";
             String playerAction = "";
             List<String> actions = new ArrayList<>();
-            for (Map.Entry<String, List<String>> entry : hand.getAllPlayerActions().entrySet()) {
-                actions.addAll(entry.getValue());
+            for (Map.Entry<String, String> entry : hand.getAllPlayerActions().entrySet()) {
+                actions.add(entry.getValue());
             }
             for (Player player : hand.getPlayers()) {
                 if (player.getPlayerName().equals(PLAYER_NAME)) {

@@ -20,21 +20,22 @@ public class HandMaker {
             }
         }
         List<Player> playersList = fillPlayers(originalLines, hand);
-        setPlayerActions(playersList, findActions(originalLines.indexOf(cards) + 1, originalLines));
+        List<String> allOriginalActionLines = findActions(originalLines.indexOf(cards) + 1, originalLines);
+
+        setPlayerActions(playersList, allOriginalActionLines, hand);
         hand.findCurrentPlayerPosition();
-        hand.fillPlayerActions();
         return hand;
     }
 
-    private static List<Player> fillPlayers(List<String> originalLines, Hand hand) {
-        List<Player> playersList = new ArrayList<>();
-        for (String originalLine : originalLines) {
-            if (originalLine.contains("Seat") && originalLine.contains("chips")) {
-                Player player = setPlayerFields(originalLine, hand);
-                playersList.add(player);
+    private static void setPlayerActions(List<Player> playersList, List<String> actions, Hand hand) {
+        for (Player player : playersList) {
+            for(String action : actions) {
+                if(action.contains(player.getPlayerName())) {
+                    player.setAction(action);
+                    hand.fillPlayerActions(player.getPlayerName(), action);
+                }
             }
         }
-        return playersList;
     }
 
     private static List<String> findActions(int i, List<String> originalLines) {
@@ -46,14 +47,15 @@ public class HandMaker {
         return allActions;
     }
 
-    private static void setPlayerActions(List<Player> playersList, List<String> actions) {
-        for (Player player : playersList) {
-            for(String action : actions) {
-                if(action.contains(player.getPlayerName())) {
-                    player.setAction(action);
-                }
+    private static List<Player> fillPlayers(List<String> originalLines, Hand hand) {
+        List<Player> playersList = new ArrayList<>();
+        for (String originalLine : originalLines) {
+            if (originalLine.contains("Seat") && originalLine.contains("chips")) {
+                Player player = setPlayerFields(originalLine, hand);
+                playersList.add(player);
             }
         }
+        return playersList;
     }
 
     private static Player setPlayerFields(String originalDataLines, Hand hand) {
