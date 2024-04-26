@@ -47,7 +47,6 @@ public class Player {
         return nameOfPosition;
     }
 
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

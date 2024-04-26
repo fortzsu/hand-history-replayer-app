@@ -25,18 +25,6 @@ public class Hand {
         }
     }
 
-    public void setCurrentButton(String originalDataHands) throws NumberFormatException {
-        int index = originalDataHands.indexOf("#");
-        String button = originalDataHands.substring(index + 1, index + 2);
-        this.currentButton = Integer.valueOf(button);
-    }
-
-    public void setBigBlind(String line) throws NumberFormatException {
-        List<String> lineString = List.of(line.split(" "));
-        String value = lineString.get(lineString.size() - 1);
-        this.bigBlind = Double.parseDouble(value);
-    }
-
     public Player addNewPlayer(Integer seatNumber, String playerName, Double chipCount) {
         Player tempPlayer = null;
         if (checkIfPlayersPositionIsTaken(seatNumber)) {
@@ -70,11 +58,6 @@ public class Hand {
         return result;
     }
 
-    public void setCards(String line) {
-        this.cards.add(line.substring(line.length() - 6, line.length() - 4));
-        this.cards.add(line.substring(line.length() - 3, line.length() - 1));
-    }
-
     public void findCurrentPlayerPosition() {
         addPlayerPosition(PositionGenerator.findPosition(players, defaultPositions, currentButton));
     }
@@ -85,6 +68,26 @@ public class Hand {
         }
     }
 
+
+    //**************************************************************************************************
+
+
+    public void setCards(String line) {
+        this.cards.add(line.substring(line.length() - 6, line.length() - 4));
+        this.cards.add(line.substring(line.length() - 3, line.length() - 1));
+    }
+
+    public void setCurrentButton(String line) throws NumberFormatException {
+        int index = line.indexOf("#");
+        String button = line.substring(index + 1, index + 2);
+        this.currentButton = Integer.valueOf(button);
+    }
+
+    public void setBigBlind(String line) throws NumberFormatException {
+        List<String> lineString = List.of(line.split(" "));
+        String value = lineString.get(lineString.size() - 1);
+        this.bigBlind = Double.parseDouble(value);
+    }
 
     public Double getBigBlind() {
         return bigBlind;

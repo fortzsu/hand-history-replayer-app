@@ -48,7 +48,8 @@ public class WriteHtmlFile {
                     actualPosition = player.getNameOfPosition();
                 }
             }
-            writer.println(fillHTMLData(firstImgSource, secondImgSource, chipsInBigBlind, playerAction, actions, actualPosition));
+            writer.println(fillHTMLData(firstImgSource, secondImgSource,
+                    chipsInBigBlind, playerAction, actions, actualPosition));
         }
     }
 
