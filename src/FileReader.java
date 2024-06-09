@@ -10,7 +10,7 @@ import java.util.Map;
 public class FileReader {
 
     public static List<Hand> readFromFile() throws IOException {
-        Path path = Paths.get("resources/text_file.txt");
+        Path path = Paths.get("resources/file.txt");
         List<String> lines = Files.readAllLines(path);
         return findOriginalDataBlocks(lines);
     }
