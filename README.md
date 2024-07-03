@@ -9,6 +9,9 @@
  - The cards are shown with JPG images, further the current chips and all the actions are listed
  - The main logic is stored in a PositionGenerator class - where the program counts all the current players positions like they were sitting by a real table
 
+## Improved Version
+ - https://github.com/fortzsu/hand-history-replayer-spring
+
 ## Technologies Used
 - Java - version 17
 
